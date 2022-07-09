@@ -30,17 +30,15 @@ Last updated: July 9, 2022.
 
 <table align="center">
   <tr align="center">
-    <th colspan="4">Current Main Shinobi in AM</th>
+    <th colspan="3">Current Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td>Shinobi</td>
     <td>Type</td>
-    <td>Supports</td>
     <td>Since</td>
   <tr align="center">
-    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td><a href="images/wn-sasuke.png">Sasuke Uchiha (Wandering Ninja)</a></td>
     <td>Solo</td>
-    <td>None</td>
     <td>June 2022 <br/> (2 mos)</td>
 </table>
     
