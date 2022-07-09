@@ -11,20 +11,22 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 Last updated: July 9, 2022.
 
 <p align="center">
-  <b>Player Name</b>: U. Sasuke
+  <b>Player Name</b>: Ron
 </p>
 
 <table align="center">
   <tr align="center">
-    <th colspan="2">Attack Missions (AM) Stats: Attacks</th>
+    <th colspan="3">Attack Missions (AM) Stats: Attacks</th>
   </tr>
   <tr align="center">
     <td>Wins</td>
     <td>Losses</td>
+    <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1549</td>
+    <td>1553</td>
     <td>131</td>
+    <td>92.2%</td>
   </tr>
 </table>
 
@@ -37,9 +39,23 @@ Last updated: July 9, 2022.
     <td>Type</td>
     <td>Since</td>
   <tr align="center">
-    <td><a href="images/wn-sasuke.png">Sasuke Uchiha (Wandering Ninja)</a></td>
+    <td>Sasuke Uchiha (Wandering Ninja)</td>
     <td>Solo</td>
     <td>June 2022 <br/> (2 mos)</td>
+</table>
+
+<table align="center">
+  <tr align="center">
+    <th colspan="2">Previous Main Shinobi in AM</th>
+  </tr>
+  <tr align="center">
+    <td>Shinobi</td>
+    <td>Term</td>
+  </tr>
+  <tr>
+    <td>Naruto Uzumaki (7th Hokage)</td>
+    <td>June 2022 - Aug. 2022 (3 mos)</td>
+  </tr>
 </table>
     
 
@@ -124,7 +140,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 | Roundup      | 285          | 285          | 285          |
 | AoM          | 190          | 440          | 390          |
 | SAM          | 200          | 200          | 200          |
-| AM           | 480          | 640          | 800          |
-| **Total**    | **1989**     | **2399**     | **2719**     |
+| AM           | 560          | 640          | 800          |
+| **Total**    | **2069**     | **2399**     | **2719**     |
 
-*Note*. Lv1 corresponds to 120 honor points every AM season, clearing up to Stage 4 in AoM. Lv2 corresponds to 160 honor points every AM season, clearing all stages and reaching SSS rank in AoM. Lv3 corresponds to reaching Gokunin every AM season, clearing all stages and reaching SSS rank in AoM, and buying Mission Pass Premium.
+*Note*. Lv1 corresponds to 2100 honor points every AM season, clearing up to Stage 4 in AoM. Lv2 corresponds to 2200 honor points every AM season, clearing all stages and reaching SSS rank in AoM. Lv3 corresponds to reaching Gokunin every AM season, clearing all stages and reaching SSS rank in AoM, and buying Mission Pass Premium.
