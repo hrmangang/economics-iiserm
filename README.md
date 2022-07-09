@@ -1,16 +1,49 @@
-<center>
-  <img alt="wallpaper" src="images/wn-sasuke.png">
-</center>
+<p align="center">
+  <img alt="wallpaper" src="images/wn-sasuke.png" width="60%"/>
+</p>
 
 <h2 align="center">
-  NxB NV Personal Data
+  NxB NV Progress: Personal Data
 </h2>
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-### :seedling: Currently Working On
+Last updated: July 9, 2022.
 
-Building Indra Otsutsuki and Ashura Otsutsuki to SSS Rank.
+<p align="center">
+  <b>Player Name</b>: U. Sasuke
+</p>
+
+<table align="center">
+  <tr align="center">
+    <th colspan="2">Attack Missions (AM) Stats: Attacks</th>
+  </tr>
+  <tr align="center">
+    <td>Wins</td>
+    <td>Losses</td>
+  </tr>
+  <tr align="center">
+    <td>1549</td>
+    <td>131</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr align="center">
+    <th colspan="4">Current Main Shinobi in AM</th>
+  </tr>
+  <tr align="center">
+    <td>Shinobi</td>
+    <td>Type</td>
+    <td>Supports</td>
+    <td>Since</td>
+  <tr align="center">
+    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td>Solo</td>
+    <td>None</td>
+    <td>June 2022 <br/> (2 mos)</td>
+</table>
+    
 
 ### :muscle: Top Shinobis Currently Owned with (Almost) Full Kit
 
@@ -76,6 +109,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 | Naruto Uzumaki (Kurama Link Mode) | ✔️ ✔️ | Support, Final room | SSS | |
 | Ashura Otsutsuki | :heavy_exclamation_mark: :heavy_exclamation_mark: | Main, Support, Defense | SS | EX |
 | Hashirama Senju (Reanimated Sage Mode) | ✔️ ✖️ | AoM: boss / team | A | |
+| Sakura Haruno (Great Ninja War) | ✔️ ✔️ | AoM: team | | |
 | Konan (Summer Break) | ✔️ ✔️ | AoM: boss / team | | |
 | Shisui Uchiha | ✔️ ✖️ | AoM: boss / team | | |
 | Sakura Uchiha | ✖️ ✖️ | AoM: team | | EX, 4* |
