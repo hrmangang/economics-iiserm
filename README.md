@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-Last updated: July 9, 2022.
+<p align="right">Last updated: July 9, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ron
@@ -24,37 +24,30 @@ Last updated: July 9, 2022.
     <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1553</td>
+    <td>1560</td>
     <td>131</td>
     <td>92.2%</td>
   </tr>
 </table>
 
-<table align="center">
-  <tr align="center">
-    <th colspan="3">Current Main Shinobi in AM</th>
-  </tr>
-  <tr align="center">
-    <td>Shinobi</td>
-    <td>Type</td>
-    <td>Since</td>
-  <tr align="center">
-    <td>Sasuke Uchiha (Wandering Ninja)</td>
-    <td>Solo</td>
-    <td>June 2022 <br/> (2 mos)</td>
-</table>
+<p align="center">
+  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Sasuke Uchiha (Wandering Ninja)</a>
+</p>
 
 <table align="center">
   <tr align="center">
-    <th colspan="2">Previous Main Shinobi in AM</th>
+    <th colspan="2">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td>Shinobi</td>
     <td>Term</td>
   </tr>
   <tr>
+    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td>June 2022 - present (2 mos)</td>
+  <tr>
     <td>Naruto Uzumaki (7th Hokage)</td>
-    <td>June 2022 - Aug. 2022 (3 mos)</td>
+    <td>June 2021 - Aug. 2021 (3 mos)</td>
   </tr>
 </table>
     
