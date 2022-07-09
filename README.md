@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 9, 2022.</p>
+<p align="right">Last updated: July 10, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ron
@@ -24,9 +24,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1560</td>
+    <td>1573</td>
     <td>131</td>
-    <td>92.2%</td>
+    <td>92.3%</td>
   </tr>
 </table>
 
