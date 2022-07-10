@@ -24,9 +24,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1573</td>
-    <td>131</td>
-    <td>92.3%</td>
+    <td>1588</td>
+    <td>133</td>
+    <td>92.2%</td>
   </tr>
 </table>
 
@@ -36,18 +36,21 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 <table align="center">
   <tr align="center">
-    <th colspan="2">List of Main Shinobi in AM</th>
+    <th colspan="3">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td>Shinobi</td>
     <td>Term</td>
+    <td>Win %</td>
   </tr>
   <tr>
     <td>Sasuke Uchiha (Wandering Ninja)</td>
-    <td>June 2022 - present (2 mos)</td>
+    <td>May 2022 - present (3 mos)</td>
+    <td>95%</td>
   <tr>
     <td>Naruto Uzumaki (7th Hokage)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
+    <td>89%</td>
   </tr>
 </table>
     
