@@ -144,7 +144,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 | Roundup      | 285          | 285          | 285          |
 | AoM          | 190          | 440          | 390          |
 | SAM          | 200          | 200          | 200          |
-| AM           | 560          | 640          | 800          |
-| **Total**    | **2069**     | **2399**     | **2719**     |
+| AM           | 800          | 800          | 800          |
+| **Total**    | **2309**     | **2559**     | **2719**     |
 
-*Note*. Lv1 corresponds to 2100 honor points every AM season, clearing up to Stage 4 in AoM. Lv2 corresponds to 2200 honor points every AM season, clearing all stages and reaching SSS rank in AoM. Lv3 corresponds to reaching Gokunin every AM season, clearing all stages and reaching SSS rank in AoM, and buying Mission Pass Premium.
+*Note*. Lv1 corresponds to reaching Gokunin every season, clearing up to Stage 4 in AoM. Lv2 corresponds to Gokunin every season, clearing all stages and reaching SSS rank in AoM. Lv3 corresponds to reaching Gokunin every season, clearing all stages and reaching SSS rank in AoM, and buying Mission Pass Premium.
