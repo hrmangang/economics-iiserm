@@ -8,10 +8,14 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 10, 2022.</p>
+<p align="right">Last updated: July 11, 2022.</p>
 
 <p align="center">
-  <b>Player Name</b>: Ron
+  <b>Player Name</b>: Ronasaurus
+</p>
+
+<p align="center">
+  <b>All-Time Best Rank</b>: Gokunin
 </p>
 
 <table align="center">
@@ -24,9 +28,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1588</td>
-    <td>133</td>
-    <td>92.2%</td>
+    <td>1616</td>
+    <td>137</td>
+    <td>92.1%</td>
   </tr>
 </table>
 
@@ -46,14 +50,18 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>Sasuke Uchiha (Wandering Ninja)</td>
     <td>May 2022 - present (3 mos)</td>
-    <td>95%</td>
+    <td>95.6%</td>
   <tr>
     <td>Naruto Uzumaki (7th Hokage)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
-    <td>89%</td>
+    <td>88.8%</td>
   </tr>
 </table>
-    
+
+<!-- AM Main Stats
+Sasuke Uchiha (Wandering Ninja): 816 wins, 37 losses
+Naruto Uzumaki (7th Hokage): 800 wins, 100 losses
+-->
 
 ### :muscle: Top Shinobis Currently Owned with (Almost) Full Kit
 
