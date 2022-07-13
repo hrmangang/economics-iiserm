@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 12, 2022.</p>
+<p align="right">Last updated: July 13, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -28,9 +28,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1705</td>
+    <td>1758</td>
     <td>141</td>
-    <td>92.3%</td>
+    <td>92.5%</td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>Sasuke Uchiha (Wandering Ninja)</td>
     <td>May 2022 - present (3 mos)</td>
-    <td>95.6%</td>
+    <td>95.8%</td>
   <tr>
     <td>Naruto Uzumaki (7th Hokage)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
