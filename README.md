@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 13, 2022.</p>
+<p align="right">Last updated: July 14, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -28,7 +28,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1758</td>
+    <td>1762</td>
     <td>141</td>
     <td>92.5%</td>
   </tr>
@@ -50,7 +50,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>Sasuke Uchiha (Wandering Ninja)</td>
     <td>May 2022 - present (3 mos)</td>
-    <td>95.8%</td>
+    <td>95.9%</td>
   <tr>
     <td>Naruto Uzumaki (7th Hokage)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
@@ -127,6 +127,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 | Naruto Uzumaki (Kurama Link Mode) | ✔️ ✔️ | Support, Final room | SSS | |
 | Ashura Otsutsuki | :heavy_exclamation_mark: :heavy_exclamation_mark: | Main, Support, Defense | SS | EX |
 | Hashirama Senju (Reanimated Sage Mode) | ✔️ ✖️ | AoM: boss / team | A | |
+| Tsunade | ✔️ ✔️ | AoM: team | | |
 | Sakura Haruno (Great Ninja War) | ✔️ ✔️ | AoM: team | | |
 | Konan (Summer Break) | ✔️ ✔️ | AoM: boss / team | | |
 | Shisui Uchiha | ✔️ ✖️ | AoM: boss / team | | |
