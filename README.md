@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 15, 2022.</p>
+<p align="right">Last updated: July 17, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -20,17 +20,15 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 <table align="center">
   <tr align="center">
-    <th colspan="3">Attack Missions (AM) Stats: Attacks</th>
+    <th colspan="2">Attack Missions (AM) Stats: Attacks</th>
   </tr>
   <tr align="center">
     <td>Wins</td>
     <td>Losses</td>
-    <td>Win %</td>
   </tr>
   <tr align="center">
-    <td>1795</td>
-    <td>141</td>
-    <td>92.7%</td>
+    <td>1815</td>
+    <td>145</td>
   </tr>
 </table>
 
@@ -40,26 +38,23 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 <table align="center">
   <tr align="center">
-    <th colspan="3">List of Main Shinobi in AM</th>
+    <th colspan="2">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td>Shinobi</td>
     <td>Term</td>
-    <td>Win %</td>
   </tr>
   <tr>
     <td>Sasuke Uchiha (Wandering Ninja)</td>
     <td>May 2022 - present (3 mos)</td>
-    <td>96.0%</td>
   <tr>
     <td>Naruto Uzumaki (7th Hokage)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
-    <td>88.8%</td>
   </tr>
 </table>
 
 <!-- AM Main Stats
-Sasuke Uchiha (Wandering Ninja): 816 wins, 37 losses
+Sasuke Uchiha (Wandering Ninja):
 Naruto Uzumaki (7th Hokage): 800 wins, 100 losses
 -->
 
