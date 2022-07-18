@@ -45,10 +45,10 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Term</td>
   </tr>
   <tr>
-    <td>Sasuke Uchiha (Wandering Ninja) [Type](images/Utility.png) </td>
+    <td>Sasuke Uchiha (Wandering Ninja)</td>
     <td>May 2022 - present (3 mos)</td>
   <tr>
-    <td>Naruto Uzumaki (7th Hokage) [Type](images/Defense.png)</td>
+    <td>Naruto Uzumaki (7th Hokage)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
   </tr>
 </table>
@@ -62,77 +62,61 @@ Naruto Uzumaki (7th Hokage): 800 wins, 100 losses
 
 The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 
-#### Utility (Purple)
+#### <img src="images/Utility.png" alt="Utility" width="30px"/>
 
-| Shinobi | Kit: full / ideal | Lack card(s) |
-|:---     | :---     | :--- |
-| Sasuke Uchiha (Wandering Ninja) | ✔️ ✔️  | |
-| Minato Namikaze (Reanimation Kurama Link Mode) | ✔️ ✔️ | |
-| Itachi Uchiha (Reanimation) | ✔️ ✔️ | |
-| Naruto Uzumaki (Six Paths Sage Mode: Light) | ✔️ ✖️ | |
-| Madara Uchiha (Reanimation) | ✔️ ✖️ | |
-| Naruto Uzumaki (Sage Mode) | ✔️ ✔️ | |
-| Mei Terumi | ✔️ ✔️ | |
-| Obito Uchiha (Illusionary World Outfit) | ✔️ ✔️ | |
-| Boruto Uzumaki (Genin) | ✔️ ✔️ |  |
-| Momoshiki Otsutsuki | :heavy_exclamation_mark: :heavy_exclamation_mark:  | EX |
-| Obito Uchiha (Rampage) | :heavy_exclamation_mark: :heavy_exclamation_mark: | EX |
+- ![Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) | Main, Ressurection, AoM, SAM | EX9
+- ![Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) | AoM | ULT8 (45s)
+- ![Itachi Uchiha (Reanimation)](images/itachi-edo) | AoM | EX1 | ULT8 (35s) awaiting
+- ![Naruto Uzumaki (Six Paths Sage Mode: Light](images/naruto-light) | AoM | EX1
+- ![Madara Uchiha (Reanimation)]() | AoM | ULT8 (35s) 
+- ![Naruto Uzumaki (Sage Mode)]() | AoM | EX1
+- ![Mei Terumi]() | AoM | ULT8 (45s)
+- ![Obito Uchiha (Illusionary World Outfit)]() | AoM | ULT8 (45s)
+- ![Boruto Uzumaki (Genin)]() | AoM | ULT8 (35s)
 
-#### Attack (Red)
+#### <img src="images/Attack.png" alt="Attack" width="30px"/>
 
-- Tsunade (Great Ninja War) | AoM | Full Kit | Lv8 Ult (35s)
-- 
+- ![Tsunade (Great Ninja War)]() | AoM | ULT8 (35s)
+- [Minato Namikaze (Reanimation)]() | AoM | EX1
+- [Kimimaro (Reanimation)]() | AoM | ULT8 (35s)
+- [Sasuke Uchiha (The Final Showdown)]() | LB1 | Missing EX
+- [Madara Uchiha (Six Paths)]() | AoM | ULT8 (45s) | Missing CP restore
 
-| Shinobi | Kit: full / ideal | Role(s) | Rank | Lack card(s) |
-|:---     | :---     | :--- | :--- | :--- |
-| Tsunade (Great Ninja War) | ✔️ ✔️ | AoM: boss / team |  | |
-| Minato Namikaze (Reanimation) | ✔️ ✖️ | AoM: team | |LB |
-| Sasuke Uchiha (The Final Showdown) | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team | | EX |
-| Kimimaro (Reanimation) | ✔️ ✔️ | AoM: boss / team | | |
-| Boruto Uzumaki (VS Momoshiki | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team | | EX |
-| Madara Uchiha (Six Paths) | ✔️ ✖️ | AoM: team | | |
+#### <img src="images/Skill.png" alt="Skill" width="30px"/>
 
-#### Skill (Blue)
+- [Indra Otsutsuki]() | AoM | EX1 | ULT8 (35s)
+- [Sasuke Uchiha (Warrior Spirit)]() | AoM | ULT-LB2 (38s)
+- [Itachi Uchiha (Anbu)]() | Missing EX
+- [Kabuto Yakushi (Sage Mode)]() | AoM | ULT8 (45s)
+- [Obito Uchiha]() | AoM | EX1 | Missing 4* (Kamui)
+- [Sakura Haruno (Summer Break)]() | AoM | ULT8 (45s) | Missing ULT-LB
+- [Pain Tendo]() | AoM | EX1
+- [Raikage Ay]() | AoM | Missing ULT
 
-| Shinobi | Kit: full / ideal | Role(s) | Rank | Lack card(s) |
-|:---     | :---     | :--- | :--- | :--- |
-| Indra Otsutsuki | ✔️ ✔️ | Main, Support | SSS | |
-| Sasuke Uchiha (Warrior Spirit) | ✔️ ✔️ | AoM: boss / team | | |
-| Itachi Uchiha (Anbu) | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team | | EX |
-| Sakura Haruno (Summer Break) | ✔️ ✔️ | AoM: boss / team | | |
-| Obito Uchiha | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team | | 4* |
-| Kabuto Yakushi (Sage Mode) | ✔️ ✔️ | AoM: boss / team | | |
-| Pain (Tendo) | ✔️ ✔️ | AoM: boss / team | | |
-| Raikage Ay | ✔️ ✖️ | AoM: team | | |
+#### <img src="images/Defense.png" alt="Defense" width="30px"/>
 
-#### Defense (Yellow)
+- [Naruto Uzumaki (7th Hokage)]() | AoM | EX1
+- [Boruto Uzumaki (Warrior Spirit)]() | AoM | ULT-LB2 (38s)
+- [Hashirama Senju]() | AoM | Missing EX
+- [Gaara (Allied Shinobi Forces Commander)]() | AoM | EX1
+- [Itachi Uchiha (VS Sasuke)]() | AoM | EX1
+- [Boruto Uzumaki (Karma)]() | Missing EX
+- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]() | Missing ULT8 (45s)
+- [Nagato (Reanimation)]() | Missing ULT8 (35s)
+- [Jiraiya]() | Missing 4*
 
-| Shinobi | Kit: full / ideal | Role(s) | Rank | Lack card(s) |
-|:---     | :---     | :--- | :--- | :--- |
-| Naruto Uzumaki (7th Hokage) | ✔️ ✔️ | Main, Support, Defense | SSS | |
-| Hashirama Senju | ✔️ ✖️ | AoM: team | A | EX |
-| Gaara (Allied Shinobi Forces Commander) | ✔️ ✔️ | AoM: boss / team | A |  |
-| Boruto Uzumaki (Warrior Spirit) | ✔️ ✔️ | AoM: boss / team |  | |
-| Itachi Uchiha (VS Sasuke) | ✔️ ✔️ | AoM: boss / team |  |  |
-| Boruto Uzumaki (Karma) | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team |  | EX | 
-| Sasuke Uchiha (Eternal Mangekyo Sharingan) | ✔️ ✖️ | AoM: team | | EX |
-| Nagato (Reanimation) | :heavy_exclamation_mark: :heavy_exclamation_mark: | | | ULT |
-| Jiraiya | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team |  | 4* |
+#### <img src="images/Assist.png" alt="Assist" width="30px"/>
 
-#### Support (Green)
-
-| Shinobi | Kit: full / ideal | Role(s) | Rank | Lack card(s) | 
-|:---     | :---     | :--- | :--- | :--- | 
-| Naruto Uzumaki (Kurama Link Mode) | ✔️ ✔️ | Support, Final room | SSS | |
-| Ashura Otsutsuki | :heavy_exclamation_mark: :heavy_exclamation_mark: | Main, Support, Defense | SS | EX |
-| Hashirama Senju (Reanimated Sage Mode) | ✔️ ✖️ | AoM: boss / team | A | |
-| Tsunade | ✔️ ✔️ | AoM: team | | |
-| Sakura Haruno (Great Ninja War) | ✔️ ✔️ | AoM: team | | |
-| Konan (Summer Break) | ✔️ ✔️ | AoM: boss / team | | |
-| Shisui Uchiha | ✔️ ✖️ | AoM: boss / team | | |
-| Sakura Uchiha | ✖️ ✖️ | AoM: team | | EX, 4* |
-| Kushina Uzumaki | ✖️ ✖️ | AoM: team | | EX, LB |
-| Sasuke Uchiha (Rinne Sharingan) | ✔️ ✔️ | AoM: team | | |
+- [Naruto Uzumaki (Kurama Link Mode)]() | AoM | EX1
+- [Hashirama Senju (Reanimated Sage Mode)]() | AoM | ULT8 (35s)
+- [Ashura Otsutsuki]() | Missing ULT8 (45s)
+- [Tsunade]() | AoM | EX1
+- [Sakura Haruno (Great Ninja War)]() | AoM | EX1
+- [Konan (Summer Break)]() | AoM | ULT8 (35s)
+- [Shisui Uchiha]() | AoM | ULT8 (45s)
+- [Sakura Uchiha]() | LB1 | Missing 4* and EX
+- [Kushina Uzumaki]() | Missing LB and EX
+- [Sasuke Uchiha (Rinne Sharingan)]() | LB1 | Missing ULT-LB
 
 ### :bank: Monthly Shinobites
 
