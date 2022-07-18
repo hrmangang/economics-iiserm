@@ -27,8 +27,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>1815</td>
-    <td>145</td>
+    <td>1850</td>
+    <td>149</td>
   </tr>
 </table>
 
@@ -45,10 +45,10 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Term</td>
   </tr>
   <tr>
-    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td>Sasuke Uchiha (Wandering Ninja) [Type](images/Utility.png) </td>
     <td>May 2022 - present (3 mos)</td>
   <tr>
-    <td>Naruto Uzumaki (7th Hokage)</td>
+    <td>Naruto Uzumaki (7th Hokage) [Type](images/Defense.png)</td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
   </tr>
 </table>
@@ -64,21 +64,24 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 
 #### Utility (Purple)
 
-| Shinobi | Kit: full / ideal | Role(s) | Rank | Lack card(s) |
-|:---     | :---     | :--- | :--- | :--- |
-| Sasuke Uchiha (Wandering Ninja) | ✔️ ✔️  | Solo, Resurrection | SSS | |
-| Minato Namikaze (Reanimation Kurama Link Mode) | ✔️ ✔️ | AoM: boss / team |  | |
-| Itachi Uchiha (Reanimation) | ✔️ ✔️ | AoM: boss / team | S | |
-| Naruto Uzumaki (Six Paths Sage Mode: Light) | ✔️ ✖️ | AoM: boss / team | S | |
-| Madara Uchiha (Reanimation) | ✔️ ✖️ | AoM: boss / team | A | |
-| Naruto Uzumaki (Sage Mode) | ✔️ ✔️ | AoM: boss / team | | |
-| Mei Terumi | ✔️ ✔️ | AoM: boss / team | |
-| Obito Uchiha (Illusionary World Outfit) | ✔️ ✔️ | AoM: boss / team | |
-| Boruto Uzumaki (Genin) | ✔️ ✔️ | AoM: boss / team | |
-| Momoshiki Otsutsuki | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team |  | EX |
-| Obito Uchiha (Rampage) | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team | | EX |
+| Shinobi | Kit: full / ideal | Lack card(s) |
+|:---     | :---     | :--- |
+| Sasuke Uchiha (Wandering Ninja) | ✔️ ✔️  | |
+| Minato Namikaze (Reanimation Kurama Link Mode) | ✔️ ✔️ | |
+| Itachi Uchiha (Reanimation) | ✔️ ✔️ | |
+| Naruto Uzumaki (Six Paths Sage Mode: Light) | ✔️ ✖️ | |
+| Madara Uchiha (Reanimation) | ✔️ ✖️ | |
+| Naruto Uzumaki (Sage Mode) | ✔️ ✔️ | |
+| Mei Terumi | ✔️ ✔️ | |
+| Obito Uchiha (Illusionary World Outfit) | ✔️ ✔️ | |
+| Boruto Uzumaki (Genin) | ✔️ ✔️ |  |
+| Momoshiki Otsutsuki | :heavy_exclamation_mark: :heavy_exclamation_mark:  | EX |
+| Obito Uchiha (Rampage) | :heavy_exclamation_mark: :heavy_exclamation_mark: | EX |
 
 #### Attack (Red)
+
+- Tsunade (Great Ninja War) | AoM | Full Kit | Lv8 Ult (35s)
+- 
 
 | Shinobi | Kit: full / ideal | Role(s) | Rank | Lack card(s) |
 |:---     | :---     | :--- | :--- | :--- |
@@ -113,6 +116,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 | Itachi Uchiha (VS Sasuke) | ✔️ ✔️ | AoM: boss / team |  |  |
 | Boruto Uzumaki (Karma) | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team |  | EX | 
 | Sasuke Uchiha (Eternal Mangekyo Sharingan) | ✔️ ✖️ | AoM: team | | EX |
+| Nagato (Reanimation) | :heavy_exclamation_mark: :heavy_exclamation_mark: | | | ULT |
 | Jiraiya | :heavy_exclamation_mark: :heavy_exclamation_mark: | AoM: team |  | 4* |
 
 #### Support (Green)
