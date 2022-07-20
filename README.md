@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 18, 2022.</p>
+<p align="right">Last updated: July 20, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -27,8 +27,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>1930</td>
-    <td>149</td>
+    <td>1950</td>
+    <td>150</td>
   </tr>
 </table>
 
@@ -58,36 +58,40 @@ Sasuke Uchiha (Wandering Ninja):
 Naruto Uzumaki (7th Hokage): 800 wins, 100 losses
 -->
 
-### :muscle: Top Shinobis Currently Owned
+### :muscle: Shinobi Strength
 
-The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
+The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). The following suffixes should be kept in mind.
+ 
+- :boom:: is a special shinobi trained for AOM
+- :european_castle:: has duties on fortress
+- :cyclone:: is the (solo) main in attack missions
 
 #### <img src="images/Utility.png" alt="Utility" width="30px"/>
 
-- [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) [Main, Fort]
-- [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) [AoM]
-- [Itachi Uchiha (Reanimation)](images/itachi-edo) [AoM]
-- [Naruto Uzumaki (Six Paths Sage Mode: Light](images/naruto-light) [Fort, AoM]
-- [Madara Uchiha (Reanimation)]() [AoM]
-- [Obito Uchiha (Illusionary World Outfit)]() [AoM]
-- [Boruto Uzumaki (Genin)]() [AoM]
+- [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) :boom: :european_castle: :cyclone:
+- [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) :boom:
+- [Itachi Uchiha (Reanimation)](images/itachi-edo) :boom:
+- [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) :boom: :european_castle:
+- [Madara Uchiha (Reanimation)]() :boom:
+- [Obito Uchiha (Illusionary World Outfit)]() :boom:
+- [Boruto Uzumaki (Genin)]()
 - [Naruto Uzumaki (Sage Mode)]()
 - [Mei Terumi]()
 
 #### <img src="images/Attack.png" alt="Attack" width="30px"/>
 
-- [Tsunade (Great Ninja War)]() [AoM]
-- [Minato Namikaze (Reanimation)]() [AoM]
-- [Kimimaro (Reanimation)]() [AoM]
+- [Tsunade (Great Ninja War)]() :boom:
+- [Minato Namikaze (Reanimation)]() :boom:
+- [Kimimaro (Reanimation)]() :boom:
 - [Sasuke Uchiha (The Final Showdown)]()
 - [Madara Uchiha (Six Paths)]()
 
 #### <img src="images/Skill.png" alt="Skill" width="30px"/>
 
-- [Indra Otsutsuki]() [Fort, AoM]
-- [Sasuke Uchiha (Warrior Spirit)]() [AoM]
+- [Indra Otsutsuki]() :boom: :european_castle:
+- [Sasuke Uchiha (Warrior Spirit)]() :boom:
 - [Itachi Uchiha (Anbu)]()
-- [Kabuto Yakushi (Sage Mode)]() [AoM]
+- [Kabuto Yakushi (Sage Mode)]() :boom:
 - [Obito Uchiha]()
 - [Sakura Haruno (Summer Break)]()
 - [Pain Tendo]()
@@ -95,9 +99,9 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 
 #### <img src="images/Defense.png" alt="Defense" width="30px"/>
 
-- [Naruto Uzumaki (7th Hokage)]() [Fort, AoM]
-- [Boruto Uzumaki (Warrior Spirit)]() [AoM]
-- [Hashirama Senju]() [Fort, AoM]
+- [Naruto Uzumaki (7th Hokage)]() :boom: :european_castle:
+- [Boruto Uzumaki (Warrior Spirit)]() :boom:
+- [Hashirama Senju]() :european_castle:
 - [Gaara (Allied Shinobi Forces Commander)]()
 - [Itachi Uchiha (VS Sasuke)]()
 - [Boruto Uzumaki (Karma)]()
@@ -107,13 +111,13 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/).
 
 #### <img src="images/Assist.png" alt="Assist" width="30px"/>
 
-- [Naruto Uzumaki (Kurama Link Mode)]() [Fort, AoM]
-- [Hashirama Senju (Reanimated Sage Mode)]() [AoM]
-- [Ashura Otsutsuki]() [Fort]
+- [Naruto Uzumaki (Kurama Link Mode)]() :boom: :european_castle:
+- [Konan (Summer Break)]() :boom:
+- [Hashirama Senju (Reanimated Sage Mode)]() :boom:
+- [Ashura Otsutsuki]() :european_castle:
 - [Tsunade]()
 - [Sakura Haruno (Great Ninja War)]()
-- [Konan (Summer Break)]() [AoM]
-- [Shisui Uchiha]() [AoM]
+- [Shisui Uchiha]() :boom:
 - [Sakura Uchiha]()
 - [Kushina Uzumaki]()
 - [Sasuke Uchiha (Rinne Sharingan)]()
