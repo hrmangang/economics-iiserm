@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 20, 2022.</p>
+<p align="right">Last updated: July 24, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -27,8 +27,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>1950</td>
-    <td>150</td>
+    <td>2015</td>
+    <td>153</td>
   </tr>
 </table>
 
@@ -90,10 +90,11 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 
 - [Indra Otsutsuki]() :boom: :european_castle:
 - [Sasuke Uchiha (Warrior Spirit)]() :boom:
+- [Hinata Hyuga (Summer Break)]() :boom:
 - [Itachi Uchiha (Anbu)]()
 - [Kabuto Yakushi (Sage Mode)]() :boom:
 - [Obito Uchiha]()
-- [Sakura Haruno (Summer Break)]()
+- [Sakura Haruno (Summer Break)]() :boom:
 - [Pain Tendo]()
 - [Raikage Ay]()
 
