@@ -8,14 +8,14 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 24, 2022.</p>
+<p align="right">Last updated: July 25, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin
+  <b>All-Time Best Rank</b>: Gokunin (x3)
 </p>
 
 <table align="center">
@@ -27,8 +27,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2015</td>
-    <td>153</td>
+    <td>2051</td>
+    <td>157</td>
   </tr>
 </table>
 
