@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 25, 2022.</p>
+<p align="right">Last updated: July 26, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -89,9 +89,9 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 #### <img src="images/Skill.png" alt="Skill" width="30px"/>
 
 - [Indra Otsutsuki]() :boom: :european_castle:
+- [Itachi Uchiha (Anbu)]() :boom: :european_castle:
 - [Sasuke Uchiha (Warrior Spirit)]() :boom:
 - [Hinata Hyuga (Summer Break)]() :boom:
-- [Itachi Uchiha (Anbu)]()
 - [Kabuto Yakushi (Sage Mode)]() :boom:
 - [Obito Uchiha]()
 - [Sakura Haruno (Summer Break)]() :boom:
