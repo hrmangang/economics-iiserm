@@ -68,57 +68,58 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 
 #### <img src="images/Utility.png" alt="Utility" width="30px"/>
 
-- [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) :boom: :european_castle: :cyclone:
-- [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) :boom:
-- [Itachi Uchiha (Reanimation)](images/itachi-edo) :boom:
-- [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) :boom: :european_castle:
-- [Madara Uchiha (Reanimation)]() :boom:
-- [Obito Uchiha (Illusionary World Outfit)]() :boom:
+- [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) 💥 🏰 🌀
+- [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) 💥
+- [Itachi Uchiha (Reanimation)](images/itachi-edo) 💥
+- [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥 🏰
+- [Madara Uchiha (Reanimation)]() 💥
+- [Obito Uchiha (Illusionary World Outfit)]() 💥
+- [Kawaki]()
 - [Boruto Uzumaki (Genin)]()
 - [Naruto Uzumaki (Sage Mode)]()
 - [Mei Terumi]()
 
 #### <img src="images/Attack.png" alt="Attack" width="30px"/>
 
-- [Tsunade (Great Ninja War)]() :boom:
-- [Minato Namikaze (Reanimation)]() :boom:
+- [Tsunade (Great Ninja War)]() 💥
+- [Minato Namikaze (Reanimation)]() 💥
 - [Kimimaro (Reanimation)]() :boom:
 - [Sasuke Uchiha (The Final Showdown)]()
 - [Madara Uchiha (Six Paths)]()
 
 #### <img src="images/Skill.png" alt="Skill" width="30px"/>
 
-- [Indra Otsutsuki]() :boom: :european_castle:
-- [Itachi Uchiha (Anbu)]() :boom: :european_castle:
-- [Sasuke Uchiha (Warrior Spirit)]() :boom:
-- [Hinata Hyuga (Summer Break)]() :boom:
-- [Kabuto Yakushi (Sage Mode)]() :boom:
+- [Indra Otsutsuki]() :boom: 🏰
+- [Itachi Uchiha (Anbu)]() 💥 🏰
+- [Sasuke Uchiha (Warrior Spirit)]() 💥
+- [Hinata Hyuga (Summer Break)]() 💥
+- [Kabuto Yakushi (Sage Mode)]() 💥
 - [Obito Uchiha]()
-- [Sakura Haruno (Summer Break)]() :boom:
+- [Sakura Haruno (Summer Break)]() 💥
 - [Pain Tendo]()
 - [Raikage Ay]()
 
 #### <img src="images/Defense.png" alt="Defense" width="30px"/>
 
-- [Naruto Uzumaki (7th Hokage)]() :boom: :european_castle:
-- [Boruto Uzumaki (Warrior Spirit)]() :boom:
-- [Hashirama Senju]() :european_castle:
-- [Gaara (Allied Shinobi Forces Commander)]()
-- [Itachi Uchiha (VS Sasuke)]()
+- [Naruto Uzumaki (7th Hokage)]() 💥 🏰
+- [Jiraiya]() 💥
+- [Gaara (Allied Shinobi Forces Commander)]() 💥
+- [Boruto Uzumaki (Warrior Spirit)]() 💥
 - [Boruto Uzumaki (Karma)]()
+- [Hashirama Senju]() :european_castle:
+- [Itachi Uchiha (VS Sasuke)]()
 - [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
 - [Nagato (Reanimation)]()
-- [Jiraiya]()
 
 #### <img src="images/Assist.png" alt="Assist" width="30px"/>
 
-- [Naruto Uzumaki (Kurama Link Mode)]() :boom: :european_castle:
-- [Konan (Summer Break)]() :boom:
-- [Hashirama Senju (Reanimated Sage Mode)]() :boom:
-- [Ashura Otsutsuki]() :european_castle:
+- [Naruto Uzumaki (Kurama Link Mode)]() 💥 🏰
+- [Hashirama Senju (Reanimated Sage Mode)]() 💥
+- [Konan (Summer Break)]() 💥
+- [Ashura Otsutsuki]() 🏰
 - [Tsunade]()
 - [Sakura Haruno (Great Ninja War)]()
-- [Shisui Uchiha]() :boom:
+- [Shisui Uchiha]() 💥
 - [Sakura Uchiha]()
 - [Kushina Uzumaki]()
 - [Sasuke Uchiha (Rinne Sharingan)]()
