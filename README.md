@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 26, 2022.</p>
+<p align="right">Last updated: July 27, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -27,7 +27,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2069</td>
+    <td>2080</td>
     <td>157</td>
   </tr>
 </table>
@@ -38,25 +38,34 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 <table align="center">
   <tr align="center">
-    <th colspan="2">List of Main Shinobi in AM</th>
+    <th colspan="4">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
-    <td>Shinobi</td>
     <td>Term</td>
-  </tr>
+    <td>Shinobi</td>
+    <td>Games</td>
+    <td>Wins</td>
+  <tr/>
   <tr>
+    <td>07.22-present</td>
     <td><a href="shinobi/anbu-itachi">Itachi Uchiha (Anbu)</a> *</td>
-    <td>Aug 2022 (planned)</td>
+    <td align="center">9</td>
+    <td align="center">(9)</td>
   </tr>
   <tr>
+    <td>05.22-present</td>
     <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
-    <td>May 2022 - present (3 mos)</td>
-  <tr>
-    <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</a></td>
-    <td>June 2021 - Aug. 2021 (3 mos)</td>
+    <td align="center">1326</td>
+    <td align="center">(1269)</td>
   </tr>
   <tr>
-    <td colspan="2">* deputy (solo) main, plays at least 30% of AM matches during their term</td>
+    <td>06.21-08.21</td>
+    <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</ta>
+    <td align="center">902</td>
+    <td align="center">(802)</td>
+  </tr>
+  <tr>
+    <td colspan="4">* deputy (solo) main, plays at least 30% of AM games in their term</td>
   </tr>
 </table>
 
