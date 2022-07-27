@@ -56,7 +56,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>June 2021 - Aug. 2021 (3 mos)</td>
   </tr>
   <tr>
-    <td colspan="2">* assistant (solo) main, plays at least 30% of AM matches during their term</td>
+    <td colspan="2">* deputy (solo) main, plays at least 30% of AM matches during their term</td>
   </tr>
 </table>
 
