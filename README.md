@@ -27,7 +27,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2051</td>
+    <td>2069</td>
     <td>157</td>
   </tr>
 </table>
@@ -45,11 +45,18 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Term</td>
   </tr>
   <tr>
-    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td><a href="shinobi/anbu-itachi">Itachi Uchiha (Anbu)</a> *</td>
+    <td>Aug 2022 (planned)</td>
+  </tr>
+  <tr>
+    <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
     <td>May 2022 - present (3 mos)</td>
   <tr>
-    <td>Naruto Uzumaki (7th Hokage)</td>
+    <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</a></td>
     <td>June 2021 - Aug. 2021 (3 mos)</td>
+  </tr>
+  <tr>
+    <td colspan="2">* assistant (solo) main, plays at least 30% of AM matches during their term</td>
   </tr>
 </table>
 
@@ -96,7 +103,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 - [Kabuto Yakushi (Sage Mode)]() 💥
 - [Obito Uchiha]()
 - [Sakura Haruno (Summer Break)]() 💥
-- [Pain Tendo]()
+- [Pain (Tendo)]()
 - [Raikage Ay]()
 
 #### <img src="images/Defense.png" alt="Defense" width="30px"/>
