@@ -1,15 +1,10 @@
 ** Log
 
-*** Currently Working On
+*** Shinobi to Upgrade to SSS rank
 
-Ranked in the order of priority.
-
-- Itachi Uchiha (Anbu): Synthesize 4* cards to max.
-- Jiraiya: Synthesize 4* cards to max.
-- Gaara (Allied Shinobi Forces Commander): Synthesize 4* cards to max.
-- Hashirama Senju (Reanimated Sage Mode): Synthesize 5* card to max and limit break it.
-- Kawaki: Synthesize 5* card to max and limit break it.
-- Sakura Uchiha: Synthesize 4* card to max.
++ Jiraiya
++ Itachi Uchiha (Anbu)
++ Gaara (Allied Shinobi Forces Commander)
 
 *** Recent Past
 
