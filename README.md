@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: July 28, 2022.</p>
+<p align="right">Last updated: July 31, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ronasaurus
@@ -27,8 +27,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2140</td>
-    <td>159</td>
+    <td>2313</td>
+    <td>163</td>
   </tr>
 </table>
 
@@ -55,8 +55,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>05.22-now</td>
     <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
-    <td align="center">1381</td>
-    <td align="center">(1323)</td>
+    <td align="center">1558</td>
+    <td align="center">(1496)</td>
   </tr>
   <tr>
     <td>06.21-08.21</td>
