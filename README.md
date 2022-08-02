@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  NxB NV Progress: Personal Data
+  NxB NV Personal Data
 </h2>
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
@@ -38,34 +38,19 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 <table align="center">
   <tr align="center">
-    <th colspan="4">List of Main Shinobi in AM</th>
+    <th colspan="2">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td>Term</td>
     <td>Shinobi</td>
-    <td>Missions</td>
-    <td>Wins</td>
   <tr/>
   <tr>
-    <td>07.22-now</td>
-    <td><a href="shinobi/anbu-itachi">Itachi Uchiha (Anbu)</a> *</td>
-    <td align="center">16</td>
-    <td align="center">(15)</td>
-  </tr>
-  <tr>
-    <td>05.22-now</td>
+    <td>05.22-present</td>
     <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
-    <td align="center">1558</td>
-    <td align="center">(1496)</td>
   </tr>
   <tr>
     <td>06.21-08.21</td>
     <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</ta>
-    <td align="center">902</td>
-    <td align="center">(802)</td>
-  </tr>
-  <tr>
-    <td colspan="4">* deputy (solo) main, plays at least 30% of AM games in their term</td>
   </tr>
 </table>
 
