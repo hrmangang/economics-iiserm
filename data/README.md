@@ -25,3 +25,8 @@ The following assumes reaching Gokunin every week within top 5k rank in AM, fini
 
 Summing up, there are at least `2739` shinobites per month.
 
+### AOM Shinobi Type
+
+The boosted shinobi types in AOM come in pairs according to the following loop:
+
+![](../images/Attack.png) ![](../images/Utility.png) ![](../images/Assist.png) ![](../images/Skill.png) ![](../images/Defense.png)
