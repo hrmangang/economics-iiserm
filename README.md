@@ -77,8 +77,8 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 #### <img src="images/Utility.png" alt="Utility" width="30px"/>
 
 - [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) 💥 🏰 🌀
+- [Itachi Uchiha (Reanimation)](images/itachi-edo) 💥 🏰
 - [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) 💥
-- [Itachi Uchiha (Reanimation)](images/itachi-edo) 💥
 - [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥 🏰
 - [Madara Uchiha (Reanimation)]() 💥
 - [Obito Uchiha (Illusionary World Outfit)]() 💥
@@ -91,9 +91,9 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 
 - [Tsunade (Great Ninja War)]() 💥
 - [Minato Namikaze (Reanimation)]() 💥
-- [Kimimaro (Reanimation)]() :boom:
+- [Madara Uchiha (Six Paths)]() 💥
+- [Kimimaro (Reanimation)]() 💥
 - [Sasuke Uchiha (The Final Showdown)]()
-- [Madara Uchiha (Six Paths)]()
 
 #### <img src="images/Skill.png" alt="Skill" width="30px"/>
 
