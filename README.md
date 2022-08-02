@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="wallpaper" src="images/wn-sasuke.png" width="60%"/>
+  <img alt="wallpaper" src="images/logo.png" width="80%"/>
 </p>
 
 <h2 align="center">
