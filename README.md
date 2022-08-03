@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Aug. 1, 2022.</p>
+<p align="right">Last updated: Aug. 3, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Wanderer
@@ -27,8 +27,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2313</td>
-    <td>163</td>
+    <td>2500</td>
+    <td>167</td>
   </tr>
 </table>
 
