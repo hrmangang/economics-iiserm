@@ -27,7 +27,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2597</td>
+    <td>2600</td>
     <td>169</td>
   </tr>
 </table>
