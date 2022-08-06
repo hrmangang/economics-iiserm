@@ -65,3 +65,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 **Time-Limited Events** are a good way to advance through the game for they often offer synthesize materials, ability points, tools, summon tickets and even shinobites. Just logging in and completing them is a daily routine.
 
 **Summons** are almost the only way to get hands on shinobi cards (apart from SAM, of course). In general, I summon only during anniversaries or when there is a very compelling first-time discount. There can be an exception to this &mdash; if there is a new favorite shinobi with good kit during non-anniversary, I summon it especially if I have enough shinobites for a guaranteed EX card or LB card.
+
+### Links
+
+- [ss](df)
