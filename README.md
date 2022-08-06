@@ -68,4 +68,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 ### Links
 
-- [ss](df)
+- [Shinobi](shinobi)
+- [What to Play?](what-to-play.md)
+- [Data](data)
+- [Log](log)
