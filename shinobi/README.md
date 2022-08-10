@@ -10,6 +10,8 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 - 🏰: has duties on fortress
 - 🌀: is the (solo) main in attack missions
 
+Within each type, the shinobi are ordered from strongest to weakest in terms of damage.
+
 #### <img src="../images/Attack.png" alt="Attack" width="30px"/>
 
 - [Minato Namikaze (Reanimation)]() 💥
@@ -17,6 +19,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). T
 - [Madara Uchiha (Six Paths)]() 💥
 - [Kimimaro (Reanimation)]() 💥
 - [Sasuke Uchiha (The Final Showdown)]()
+- [Obito Uchiha (Ten Tails Jinchuriki)]()
 
 #### <img src="../images/Utility.png" alt="Utility" width="30px"/>
 
