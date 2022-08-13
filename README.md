@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Aug. 11, 2022.</p>
+<p align="right">Last updated: Aug. 13, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Shadows
@@ -27,7 +27,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>2703</td>
+    <td>2746</td>
     <td>174</td>
   </tr>
 </table>
