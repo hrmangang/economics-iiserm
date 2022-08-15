@@ -18,6 +18,10 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <b>All-Time Best Rank</b>: Gokunin (x4)
 </p>
 
+<p align="center">
+  <b>Established</b>: June 25, 2001
+</p>
+
 <table align="center">
   <tr align="center">
     <th colspan="2">Attack Missions (AM) Stats: Attacks</th>
