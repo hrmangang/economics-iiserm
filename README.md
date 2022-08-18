@@ -73,6 +73,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 ### Links
 
 - [Shinobi](shinobi)
+- [AM Registry](AM-registry.md)
 - [What to Play?](what-to-play.md)
 - [Data](data)
 - [Log](log)
