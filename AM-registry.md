@@ -6,7 +6,7 @@
   Attack Missions Registry
 </h2>
 
-Gokunin is the highest league in AM. It was first reached during AM Season No. 110 by [Sasuke Uchiha (Wandering Ninja)](shinobi/wn-sasuke.png). Although AM was played in 2021 by maining [Naruto Uzumaki (7th Hokage)](shinobi/hokage-naruto), neither league ranks were recorded nor Gokunin was attained.
+Gokunin is the highest league in AM. It was first attained during AM Season No. 110 by [Sasuke Uchiha (Wandering Ninja)](shinobi/wn-sasuke.png). Although AM was played in 2021 by maining [Naruto Uzumaki (7th Hokage)](shinobi/hokage-naruto), neither league ranks were recorded nor Gokunin was attained.
 
 <table align="center">
   <tr align="center">
