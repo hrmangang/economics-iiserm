@@ -14,6 +14,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Attack.png" alt="Attack" width="30px"/>
 
+- [Boruto Uzumaki (VS Momoshiki)]() 💥 🏰
 - [Minato Namikaze (Reanimation)]() 💥
 - [Tsunade (Great Ninja War)]() 💥
 - [Madara Uchiha (Six Paths)]() 💥
@@ -36,10 +37,10 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Assist.png" alt="Assist" width="30px"/>
 
+- [Ashura Otsutsuki]() 💥 🏰
 - [Naruto Uzumaki (Kurama Link Mode)]() 💥 🏰
 - [Hashirama Senju (Reanimated Sage Mode)]() 💥
 - [Konan (Summer Break)]() 💥
-- [Ashura Otsutsuki]() 🏰
 - [Tsunade]()
 - [Sakura Haruno (Great Ninja War)]()
 - [Shisui Uchiha]() 💥
