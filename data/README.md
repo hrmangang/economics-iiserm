@@ -23,9 +23,9 @@ The following assumes reaching Gokunin every week within top 5k rank in AM, fini
   - Guild: `230`
 - AM:
   - League: `800`
-  - Ranking: `40`
+  - Ranking: `160`
 
-Summing up, there are at least `2739` shinobites per month.
+Summing up, there are at least `2859` shinobites per month.
 
 ### AOM Shinobi Type
 
