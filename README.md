@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>3444</td>
-    <td>228</td>
+    <td>3493</td>
+    <td>230</td>
   </tr>
 </table>
 
