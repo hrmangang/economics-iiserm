@@ -8,10 +8,10 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Sept. 22, 2022.</p>
+<p align="right">Last updated: Oct. 02, 2022.</p>
 
 <p align="center">
-  <b>Player Name</b>: Wanderer
+  <b>Player Name</b>: Ivan
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>3559</td>
-    <td>240</td>
+    <td>3720</td>
+    <td>256</td>
   </tr>
 </table>
 
