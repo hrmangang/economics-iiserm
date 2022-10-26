@@ -128,5 +128,11 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
     <td>Gokunin</td>
   </tr>
   
-  
+  <tr>
+    <td>No. 125</td>
+    <td>17/10/2022-24/10/2022</td>
+    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td>Gokunin</td>
+  </tr>
+
 </table>
