@@ -8,14 +8,14 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Oct. 26, 2022.</p>
+<p align="right">Last updated: Nov. 22, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ivan
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x18)
+  <b>All-Time Best Rank</b>: Gokunin (x19)
 </p>
 
 <p align="center">
