@@ -8,14 +8,14 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Nov. 30, 2022.</p>
+<p align="right">Last updated: Dec. 5, 2022.</p>
 
 <p align="center">
   <b>Player Name</b>: Ivan
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x20)
+  <b>All-Time Best Rank</b>: Gokunin (x21)
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>4326</td>
-    <td>308</td>
+    <td>4483</td>
+    <td>326</td>
   </tr>
 </table>
 
