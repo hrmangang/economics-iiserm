@@ -37,6 +37,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Assist.png" alt="Assist" width="30px"/>
 
+- [Sasuke Uchiha (VS Jigen and Isshiki)]() 💥 🏰
 - [Ashura Otsutsuki]() 💥 🏰
 - [Naruto Uzumaki (Kurama Link Mode)]() 💥 🏰
 - [Hashirama Senju (Reanimated Sage Mode)]() 💥
