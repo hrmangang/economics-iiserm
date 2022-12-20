@@ -17,20 +17,21 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Boruto Uzumaki (VS Momoshiki)]() 💥 🏰
 - [Minato Namikaze (Reanimation)]() 💥
 - [Tsunade (Great Ninja War)]() 💥
+- [Sasuke Uchiha (The Final Showdown)]()
 - [Madara Uchiha (Six Paths)]() 💥
 - [Kimimaro (Reanimation)]() 💥
-- [Sasuke Uchiha (The Final Showdown)]()
 - [Obito Uchiha (Ten Tails Jinchuriki)]()
 
 #### <img src="../images/Utility.png" alt="Utility" width="30px"/>
 
 - [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) 💥 🏰 🌀
+- [Kawaki]() 💥 🏰
 - [Itachi Uchiha (Reanimation)](images/itachi-edo) 💥 🏰
+- [Naruto Uzumaki (7th Hokage Baryon Mode)]() 💥
 - [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) 💥
-- [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥 🏰
+- [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥
 - [Madara Uchiha (Reanimation)]() 💥
 - [Obito Uchiha (Illusionary World Outfit)]() 💥
-- [Kawaki]()
 - [Boruto Uzumaki (Genin)]()
 - [Naruto Uzumaki (Sage Mode)]()
 - [Mei Terumi]()
@@ -39,20 +40,22 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 - [Sasuke Uchiha (VS Jigen and Isshiki)]() 💥 🏰
 - [Ashura Otsutsuki]() 💥 🏰
-- [Naruto Uzumaki (Kurama Link Mode)]() 💥 🏰
 - [Hashirama Senju (Reanimated Sage Mode)]() 💥
+- [Naruto Uzumaki (Kurama Link Mode)]() 💥 🏰
+- [Shisui Uchiha]() 💥
+- [Kakashi Hatake (Sixth Hokage)]()
 - [Konan (Summer Break)]() 💥
 - [Tsunade]()
 - [Sakura Haruno (Great Ninja War)]()
-- [Shisui Uchiha]() 💥
 - [Sakura Uchiha]()
 - [Kushina Uzumaki]()
 - [Sasuke Uchiha (Rinne Sharingan)]()
+- [Kaguya Otsutsuki]()
 
 #### <img src="../images/Skill.png" alt="Skill" width="30px"/>
 
-- [Indra Otsutsuki]() :boom: 🏰
-- [Itachi Uchiha (Anbu)]() 💥 🏰
+- [Indra Otsutsuki]() 💥 🏰
+- [Itachi Uchiha (Anbu)]() 💥
 - [Obito Uchiha]() 💥
 - [Sasuke Uchiha (Warrior Spirit)]() 💥
 - [Hinata Hyuga (Summer Break)]() 💥
@@ -67,9 +70,10 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Naruto Uzumaki (7th Hokage)]() 💥 🏰
 - [Jiraiya]() 💥
 - [Gaara (Allied Shinobi Forces Commander)]() 💥
+- [Sasuke Uchiha (Rinne Sharingan: Shadow)]()
 - [Boruto Uzumaki (Warrior Spirit)]() 💥
-- [Hashirama Senju]() :european_castle:
-- [Naruto Uzumaki (The Final Showdown)]()
-- [Itachi Uchiha (VS Sasuke)]()
-- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
+- [Itachi Uchiha (VS Sasuke)]() 💥
+- [Hashirama Senju]()
 - [Nagato (Reanimation)]()
+- [Naruto Uzumaki (The Final Showdown)]()
+- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
