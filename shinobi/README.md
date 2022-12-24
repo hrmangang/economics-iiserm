@@ -66,11 +66,11 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Defense.png" alt="Defense" width="30px"/>
 
+- [Sasuke Uchiha (Rinne Sharingan: Shadow)]() 💥 🏰
 - [Boruto Uzumaki (Karma)]() 💥 🏰
 - [Naruto Uzumaki (7th Hokage)]() 💥 🏰
 - [Jiraiya]() 💥
 - [Gaara (Allied Shinobi Forces Commander)]() 💥
-- [Sasuke Uchiha (Rinne Sharingan: Shadow)]()
 - [Boruto Uzumaki (Warrior Spirit)]() 💥
 - [Itachi Uchiha (VS Sasuke)]() 💥
 - [Hashirama Senju]()
