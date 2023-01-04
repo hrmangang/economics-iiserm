@@ -15,7 +15,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x22)
+  <b>All-Time Best Rank</b>: Gokunin (x24)
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>4483</td>
-    <td>326</td>
+    <td>4769</td>
+    <td>352</td>
   </tr>
 </table>
 
