@@ -11,7 +11,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 <p align="right">Last updated: Dec. 5, 2022.</p>
 
 <p align="center">
-  <b>Player Name</b>: Ivan
+  <b>Player Name</b>: Fiddler
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>4769</td>
-    <td>352</td>
+    <td>4783</td>
+    <td>353</td>
   </tr>
 </table>
 
