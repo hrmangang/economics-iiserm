@@ -54,6 +54,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Skill.png" alt="Skill" width="30px"/>
 
+- [Itachi Uchiha]() 💥
 - [Indra Otsutsuki]() 💥 🏰
 - [Itachi Uchiha (Anbu)]() 💥
 - [Obito Uchiha]() 💥
