@@ -39,6 +39,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 #### <img src="../images/Assist.png" alt="Assist" width="30px"/>
 
 - [Sasuke Uchiha (VS Jigen and Isshiki)]() 💥 🏰
+- [Sakura Uchiha]() 💥 🏰
 - [Ashura Otsutsuki]() 💥 🏰
 - [Hashirama Senju (Reanimated Sage Mode)]() 💥
 - [Naruto Uzumaki (Kurama Link Mode)]() 💥 🏰
@@ -47,7 +48,6 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Konan (Summer Break)]() 💥
 - [Tsunade]()
 - [Sakura Haruno (Great Ninja War)]()
-- [Sakura Uchiha]()
 - [Kushina Uzumaki]()
 - [Sasuke Uchiha (Rinne Sharingan)]()
 - [Kaguya Otsutsuki]()
