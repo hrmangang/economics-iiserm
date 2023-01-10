@@ -34,7 +34,6 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Obito Uchiha (Illusionary World Outfit)]() 💥
 - [Boruto Uzumaki (Genin)]()
 - [Naruto Uzumaki (Sage Mode)]()
-- [Mei Terumi]()
 
 #### <img src="../images/Assist.png" alt="Assist" width="30px"/>
 
@@ -46,7 +45,6 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Shisui Uchiha]() 💥
 - [Kakashi Hatake (Sixth Hokage)]()
 - [Konan (Summer Break)]() 💥
-- [Tsunade]()
 - [Sakura Haruno (Great Ninja War)]()
 - [Kushina Uzumaki]()
 - [Sasuke Uchiha (Rinne Sharingan)]()
