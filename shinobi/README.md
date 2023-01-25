@@ -47,8 +47,8 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Konan (Summer Break)]() 💥
 - [Sakura Haruno (Great Ninja War)]()
 - [Kushina Uzumaki]()
-- [Sasuke Uchiha (Rinne Sharingan)]()
 - [Kaguya Otsutsuki]()
+- [Sasuke Uchiha (Rinne Sharingan)]()
 
 #### <img src="../images/Skill.png" alt="Skill" width="30px"/>
 
