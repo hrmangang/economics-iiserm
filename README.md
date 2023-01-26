@@ -48,8 +48,13 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Term</td>
     <td>Shinobi</td>
   <tr/>
+  
   <tr>
-    <td>05.22-present</td>
+    <td>01.23-present</td>
+    <td><a href="shinobi/sasuke-vs">Sasuke Uchiha (VS Jigen and Isshiki)</a></td>
+  </tr>
+  <tr>
+    <td>05.22-01.23</td>
     <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
   </tr>
   <tr>
