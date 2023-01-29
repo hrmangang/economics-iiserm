@@ -50,15 +50,15 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr/>
   
   <tr>
-    <td>01.23-present</td>
+    <td>Jan. 2023-present (1 mos)</td>
     <td><a href="shinobi/sasuke-vs">Sasuke Uchiha (VS Jigen and Isshiki)</a></td>
   </tr>
   <tr>
-    <td>05.22-01.23</td>
+    <td>May 2022-Dec. 2022 (8 mos)</td>
     <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
   </tr>
   <tr>
-    <td>06.21-08.21</td>
+    <td>June 2021-Aug. 2021 (3 mos)</td>
     <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</ta>
   </tr>
 </table>
