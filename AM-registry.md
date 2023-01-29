@@ -226,4 +226,11 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
     <td>Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Gokunin</td>
   </tr>
+  
+  <tr>
+    <td>No. 137</td>
+    <td>23/1/2023-30/1/2023</td>
+    <td>Sasuke Uchiha (VS Jigen and Isshiki)</td>
+    <td> </td>
+  </tr>
 </table>
