@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Dec. 5, 2022.</p>
+<p align="right">Last updated: Feb. 4, 2023.</p>
 
 <p align="center">
   <b>Player Name</b>: Fiddler
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>4783</td>
-    <td>353</td>
+    <td>5050</td>
+    <td>396</td>
   </tr>
 </table>
 
