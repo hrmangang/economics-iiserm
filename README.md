@@ -11,7 +11,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 <p align="right">Last updated: Feb. 4, 2023.</p>
 
 <p align="center">
-  <b>Player Name</b>: Fiddler
+  <b>Player Name</b>: SpikeArrow
 </p>
 
 <p align="center">
