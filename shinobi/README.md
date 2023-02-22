@@ -54,9 +54,9 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 - [Itachi Uchiha]() 💥
 - [Indra Otsutsuki]() 💥 🏰
+- [Sasuke Uchiha (Warrior Spirit)]() 💥
 - [Itachi Uchiha (Anbu)]() 💥
 - [Obito Uchiha]() 💥
-- [Sasuke Uchiha (Warrior Spirit)]() 💥
 - [Hinata Hyuga (Summer Break)]() 💥
 - [Kabuto Yakushi (Sage Mode)]() 💥
 - [Sakura Haruno (Summer Break)]() 💥
