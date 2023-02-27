@@ -73,6 +73,6 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Boruto Uzumaki (Warrior Spirit)]() 💥
 - [Itachi Uchiha (VS Sasuke)]() 💥
 - [Hashirama Senju]()
+- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
 - [Nagato (Reanimation)]()
 - [Naruto Uzumaki (The Final Showdown)]()
-- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
