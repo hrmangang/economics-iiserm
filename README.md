@@ -15,7 +15,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x28)
+  <b>All-Time Best Rank</b>: Gokunin (x30)
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr/>
   
   <tr>
-    <td>Jan. 2023-present (1 mos)</td>
+    <td>Jan. 2023-present (3 mos)</td>
     <td><a href="shinobi/sasuke-vs">Sasuke Uchiha (VS Jigen and Isshiki)</a></td>
   </tr>
   <tr>
