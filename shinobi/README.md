@@ -24,9 +24,11 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Utility.png" alt="Utility" width="30px"/>
 
-- [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) 💥 🏰 🌀
+- [Sasuke Uchiha (Wandering Ninja)](images/wn-sasuke) 💥 🏰
 - [Kawaki]() 💥 🏰
+- [Sasuke Uchiha (Anime 20th Anniversary Outfit)]() 💥 🏰
 - [Itachi Uchiha (Reanimation)](images/itachi-edo) 💥 🏰
+- [Momoshiki Otsutsuki]()  💥 🏰
 - [Naruto Uzumaki (7th Hokage Baryon Mode)]() 💥
 - [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) 💥
 - [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥
@@ -37,7 +39,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Assist.png" alt="Assist" width="30px"/>
 
-- [Sasuke Uchiha (VS Jigen and Isshiki)]() 💥 🏰
+- [Sasuke Uchiha (VS Jigen and Isshiki)]() 💥 🏰 🌀
 - [Sakura Uchiha]() 💥 🏰
 - [Ashura Otsutsuki]() 💥 🏰
 - [Hashirama Senju (Reanimated Sage Mode)]() 💥
