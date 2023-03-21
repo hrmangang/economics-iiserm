@@ -66,7 +66,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td align="center">0</td>
   </tr>
   <tr>
-    <th colspan="3">Titles refer to Gokunin titles</th>
+    <td colspan="3">Titles refer to Gokunin titles</td>
   </tr>
 </table>
 
