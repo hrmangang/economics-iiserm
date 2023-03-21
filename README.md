@@ -47,7 +47,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr align="center">
     <td>Term</td>
     <td>Shinobi</td>
-    <td>Gokunin titles</td>
+    <td>Titles</td>
   <tr/>
   
   <tr>
@@ -64,6 +64,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>June 2021-Aug. 2021 (3 mos)</td>
     <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</ta>
     <td align="center">0</td>
+  </tr>
+  <tr>
+    <th colspan="3">Titles refer to Gokunin titles</th>
   </tr>
 </table>
 
