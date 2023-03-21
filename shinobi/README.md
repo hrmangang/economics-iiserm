@@ -64,6 +64,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Kabuto Yakushi (Sage Mode)]() 💥
 - [Sakura Haruno (Summer Break)]() 💥
 - [Pain (Tendo)]()
+- [Sasuke Uchiha (Boy)]()
 - [Raikage Ay]()
 
 #### <img src="../images/Defense.png" alt="Defense" width="30px"/>
