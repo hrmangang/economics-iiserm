@@ -42,24 +42,28 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 <table align="center">
   <tr align="center">
-    <th colspan="2">List of Main Shinobi in AM</th>
+    <th colspan="3">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td>Term</td>
     <td>Shinobi</td>
+    <td>Gokunin titles</td>
   <tr/>
   
   <tr>
     <td>Jan. 2023-present (3 mos)</td>
     <td><a href="shinobi/sasuke-vs">Sasuke Uchiha (VS Jigen and Isshiki)</a></td>
+    <td>6</td>
   </tr>
   <tr>
     <td>May 2022-Dec. 2022 (8 mos)</td>
     <td><a href="shinobi/wn-sasuke">Sasuke Uchiha (Wandering Ninja)</a></td>
+    <td>25</td>
   </tr>
   <tr>
     <td>June 2021-Aug. 2021 (3 mos)</td>
     <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</ta>
+    <td>0</td>
   </tr>
 </table>
 
