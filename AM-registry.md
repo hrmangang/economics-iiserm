@@ -276,4 +276,11 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
     <td>Tier 1 Chonin</td>
   </tr>  
   
+<tr>
+    <td>No. 144</td>
+    <td>13/3/2023-20/3/2023</td>
+    <td>NA</td>
+    <td>NA</td>
+  </tr>  
+  
 </table>
