@@ -14,10 +14,10 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Attack.png" alt="Attack" width="30px"/>
 
+- [Sasuke Uchiha (The Final Showdown)]() 💥
 - [Boruto Uzumaki (VS Momoshiki)]() 💥 🏰
 - [Minato Namikaze (Reanimation)]() 💥
 - [Tsunade (Great Ninja War)]() 💥
-- [Sasuke Uchiha (The Final Showdown)]()
 - [Naruto Uzumaki (Boy)]() 
 - [Madara Uchiha (Six Paths)]() 💥
 - [Kimimaro (Reanimation)]() 💥
