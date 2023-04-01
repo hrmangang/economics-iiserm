@@ -21,7 +21,6 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Naruto Uzumaki (Boy)]() 
 - [Madara Uchiha (Six Paths)]() 💥
 - [Kimimaro (Reanimation)]() 💥
-- [Obito Uchiha (Ten Tails Jinchuriki)]()
 
 #### <img src="../images/Utility.png" alt="Utility" width="30px"/>
 
@@ -35,8 +34,6 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥
 - [Madara Uchiha (Reanimation)]() 💥
 - [Obito Uchiha (Illusionary World Outfit)]() 💥
-- [Boruto Uzumaki (Genin)]()
-- [Naruto Uzumaki (Sage Mode)]()
 
 #### <img src="../images/Assist.png" alt="Assist" width="30px"/>
 
@@ -72,11 +69,11 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Sasuke Uchiha (Rinne Sharingan: Shadow)]() 💥 🏰
 - [Boruto Uzumaki (Karma)]() 💥 🏰
 - [Naruto Uzumaki (7th Hokage)]() 💥 🏰
+- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
 - [Jiraiya]() 💥
 - [Gaara (Allied Shinobi Forces Commander)]() 💥
 - [Boruto Uzumaki (Warrior Spirit)]() 💥
 - [Itachi Uchiha (VS Sasuke)]() 💥
 - [Hashirama Senju]()
-- [Sasuke Uchiha (Eternal Mangekyo Sharingan)]()
 - [Nagato (Reanimation)]()
 - [Naruto Uzumaki (The Final Showdown)]()
