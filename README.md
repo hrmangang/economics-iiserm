@@ -8,10 +8,10 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Feb. 4, 2023.</p>
+<p align="right">Last updated: Aug. 23, 2023.</p>
 
 <p align="center">
-  <b>Player Name</b>: Saukage
+  <b>Player Name</b>: The Eye
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>5050</td>
-    <td>396</td>
+    <td>5439</td>
+    <td>442</td>
   </tr>
 </table>
 
 <p align="center">
-  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Sasuke Uchiha (VS Jigen and Isshiki)</a>
+  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Itachi Uchiha (Reanimation)</a>
 </p>
 
 <table align="center">
@@ -51,7 +51,12 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr/>
   
   <tr>
-    <td>Jan. 2023-present (3 mos)</td>
+    <td>Aug. 2023-present (1 mos)</td>
+    <td><a href=#>Itachi Uchiha (Reanimation)</a></td>
+    <td align="center">NA</td>
+  </tr>
+  <tr>
+    <td>Jan. 2023-present (7 mos)</td>
     <td><a href="shinobi/sasuke-vs">Sasuke Uchiha (VS Jigen and Isshiki)</a></td>
     <td align="center">6</td>
   </tr>
@@ -63,7 +68,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>June 2021-Aug. 2021 (3 mos)</td>
     <td><a href="shinobi/hokage-naruto">Naruto Uzumaki (7th Hokage)</ta>
-    <td align="center">0</td>
+    <td align="center">NA</td>
   </tr>
   <tr>
     <td colspan="3">Titles refer to Gokunin titles</td>
