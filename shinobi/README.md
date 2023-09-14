@@ -27,8 +27,8 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 - [Sasuke Uchiha (Anime 20th Anniversary Outfit)]() 💥 🏰 
 - [Itachi Uchiha (Reanimation)](images/itachi-edo) 💥 🏰
 - [Kawaki]() 💥 🏰
-- [Momoshiki Otsutsuki]()  💥 🏰
 - [Minato Namikaze (Reanimation Kurama Link Mode)](images/minato-klm) 💥
+- [Momoshiki Otsutsuki]()  💥 🏰
 - [Naruto Uzumaki (Six Paths Sage Mode: Light)](images/naruto-light) 💥
 - [Madara Uchiha (Reanimation)]() 💥
 
