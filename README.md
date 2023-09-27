@@ -56,7 +56,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td align="center">1</td>
   </tr>
   <tr>
-    <td>Jan. 2023-Apr. 2023(4 mos)</td>
+    <td>Jan. 2023-Apr. 2023 (4 mos)</td>
     <td><a href="shinobi/sasuke-vs">Sasuke Uchiha (VS Jigen and Isshiki)</a></td>
     <td align="center">6</td>
   </tr>
