@@ -8,14 +8,14 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Aug. 23, 2023.</p>
+<p align="right">Last updated: Sept. 27, 2023.</p>
 
 <p align="center">
-  <b>Player Name</b>: The Eye
+  <b>Player Name</b>: U. Sasuke
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x30)
+  <b>All-Time Best Rank</b>: Gokunin (x31)
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>5439</td>
-    <td>442</td>
+    <td>5657</td>
+    <td>491</td>
   </tr>
 </table>
 
 <p align="center">
-  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Itachi Uchiha (Reanimation)</a>
+  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Sasuke Uchiha (Wandering Ninja)</a>
 </p>
 
 <table align="center">
@@ -51,9 +51,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr/>
   
   <tr>
-    <td>Aug. 2023-present (1 mos)</td>
-    <td><a href=#>Itachi Uchiha (Reanimation)</a></td>
-    <td align="center">NA</td>
+    <td>Sept. 2023-present (1 mos)</td>
+    <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td>Jan. 2023-Apr. 2023(4 mos)</td>
