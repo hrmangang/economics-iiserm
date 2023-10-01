@@ -285,9 +285,9 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
 
 <tr>
   <td>No. 147-149</td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td>NA </td>
+  <td>NA </td>
+  <td>NA </td>
 </tr>
 
 <tr>
@@ -299,9 +299,9 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
 
 <tr>
   <td>No. 151-172</td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td>NA </td>
+  <td>NA </td>
+  <td>NA </td>
 </tr>
 
 <tr>
