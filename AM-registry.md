@@ -270,25 +270,11 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
   </tr>  
 
 <tr>
-    <td>No. 143</td>
+    <td>No. 143-145</td>
     <td>6/3/2023-13/3/2023</td>
     <td>Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Tier 1 Chonin</td>
-  </tr>  
-  
-<tr>
-    <td>No. 144</td>
-    <td>13/3/2023-20/3/2023</td>
-    <td>NA</td>
-    <td>NA</td>
-  </tr>  
-  
-<tr>
-    <td>No. 145</td>
-    <td>20/3/2023-27/3/2023</td>
-    <td>NA</td>
-    <td>NA</td>
-  </tr>
+</tr>
   
 <tr>
   <td>No. 146</td>
@@ -298,26 +284,12 @@ Gokunin is the highest league in AM. It was first achieved during AM Season No. 
 </tr>
 
 <tr>
-  <td>No. 147</td>
-  <td>3/4/2023-10/4/2023</td>
-  <td>NA</td>
-  <td>NA</td>
-</tr>
-  
-<tr>
-  <td>No. 148</td>
-  <td>10/4/2023-17/4/2023</td>
-  <td>NA</td>
-  <td>NA</td>
+  <td>No. 147-149</td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
 </tr>
 
-<tr>
-  <td>No. 149</td>
-  <td>17/4/2023-24/4/2023</td>
-  <td>NA</td>
-  <td>NA</td>
-</tr>  
-  
 <tr>
   <td>No. 150</td>
   <td>24/4/2023-1/5/2023</td>
