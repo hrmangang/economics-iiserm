@@ -15,7 +15,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x32)
+  <b>All-Time Best Rank</b>: Gokunin (x33)
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>Sept. 2023-present (1 mos)</td>
     <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
-    <td align="center">2</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td>Jan. 2023-Apr. 2023 (4 mos)</td>
