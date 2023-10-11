@@ -49,6 +49,12 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Shinobi</td>
     <td>Titles</td>
   <tr/>
+    
+  <tr>
+    <td>Oct. 2023-present (1 mos)</td>
+    <td><a href=#>Naruto Uzumaki (The Final Showdown)</a></td>
+    <td align="center"> </td>
+  </tr>
   
   <tr>
     <td>Sept. 2023-present (1 mos)</td>
