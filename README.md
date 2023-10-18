@@ -8,14 +8,14 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Sept. 27, 2023.</p>
+<p align="right">Last updated: Oct. 18, 2023.</p>
 
 <p align="center">
   <b>Player Name</b>: U. Sasuke
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x33)
+  <b>All-Time Best Rank</b>: Gokunin (x334)
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>Sept. 2023-present (1 mos)</td>
     <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td>Jan. 2023-Apr. 2023 (4 mos)</td>
