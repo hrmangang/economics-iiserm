@@ -15,7 +15,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x38)
+  <b>All-Time Best Rank</b>: Gokunin (x39)
 </p>
 
 <p align="center">
