@@ -53,6 +53,7 @@ Within each type, the shinobi are ordered from strongest to weakest in terms of 
 
 #### <img src="../images/Defense.png" alt="Defense" width="30px"/>
 
+- [Sasuke Uchiha (The Last)]() 💥 🏰
 - [Sasuke Uchiha (Rinne Sharingan: Shadow)]() 💥 🏰
 - [Sasuke Uchiha (Eternal Mangekyo Sharingan)]() 💥
 - [Naruto Uzumaki (The Final Showdown)]()
