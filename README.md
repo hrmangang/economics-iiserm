@@ -11,7 +11,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 <p align="right">Last updated: Nov. 14, 2023.</p>
 
 <p align="center">
-  <b>Player Name</b>: U. Sasuke
+  <b>Player Name</b>: RonnyRonka
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>5756</td>
-    <td>500</td>
+    <td>6401</td>
+    <td>577</td>
   </tr>
 </table>
 
@@ -49,7 +49,13 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Shinobi</td>
     <td>Titles</td>
   <tr/>
-    
+
+
+  <tr>
+    <td><a href=#>Sasuke Uchiha (The Last )</a></td>
+    <td>Dec. 2023-present</td>
+    <td align="center"> </td>
+  </tr>
   <tr>
     <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
     <td>Sept. 2023-present (2 mos)</td>
