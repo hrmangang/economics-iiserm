@@ -37,7 +37,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 </table>
 
 <p align="center">
-  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Sasuke Uchiha (Wandering Ninja)</a>
+  <b>Current (Solo) Main Shinobi</b>: <a href="images/wn-sasuke.png">Sasuke Uchiha (The Final Showdown)</a>
 </p>
 
 <table align="center">
