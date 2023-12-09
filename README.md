@@ -52,7 +52,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 
 
   <tr>
-    <td><a href=#>Sasuke Uchiha (The Last )</a></td>
+    <td><a href=#>Sasuke Uchiha (The Last)</a></td>
     <td>Dec. 2023-present</td>
     <td align="center"> </td>
   </tr>
