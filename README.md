@@ -63,7 +63,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   </tr>
   <tr>
     <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
-    <td>Sept. 2023-present (2 mos)</td>
+    <td>Sept. 2023-Nov. 2023 (3 mos)</td>
     <td align="center">10</td>
   </tr>
   <tr>
