@@ -49,8 +49,13 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Shinobi</td>
     <td>Titles</td>
   <tr/>
-
-
+    
+  <tr>
+    <td><a href=#>Sasuke Uchiha (The Last)</a></td>
+    <td>TBD </td>
+    <td align="center"> </td>
+  </tr>
+  
   <tr>
     <td><a href=#>Sasuke Uchiha (The Final Showdown)</a></td>
     <td>Dec. 2023-present</td>
