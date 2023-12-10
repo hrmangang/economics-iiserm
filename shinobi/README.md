@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../images/logo.png" width="80%">
-</p>
-
 <h2 align="center">Shinobi</h2>
 
 The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). Within each type, the shinobi are ordered from strongest to weakest in terms of damage.
