@@ -59,12 +59,12 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td><a href=#>Sasuke Uchiha (The Final Showdown)</a></td>
     <td>Dec. 2023-present</td>
-    <td align="center"> </td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
     <td>Sept. 2023-Nov. 2023 (3 mos)</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
   </tr>
   <tr>
     <td></td>
