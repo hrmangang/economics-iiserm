@@ -13,6 +13,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). W
 - Sasuke Uchiha (Wandering Ninja)
 - Itachi Uchiha (Reanimation)
 - Sasuke Uchiha (Anime 20th Anniversary Outfit)
+- Naruto Uzumaki (Baryon Mode)
 - Kawaki
 
 #### Assist Type
