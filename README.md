@@ -15,7 +15,7 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x41)
+  <b>All-Time Best Rank</b>: Gokunin (x42)
 </p>
 
 <p align="center">
@@ -52,14 +52,14 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     
   <tr>
     <td><a href=#>Sasuke Uchiha (The Last)</a></td>
-    <td>TBD </td>
-    <td align="center"> </td>
+    <td>Dec. 2023-present </td>
+    <td align="center">1</td>
   </tr>
   
   <tr>
     <td><a href=#>Sasuke Uchiha (The Final Showdown)</a></td>
     <td>Dec. 2023-present</td>
-    <td align="center">1</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td><a href=#>Sasuke Uchiha (Wandering Ninja)</a></td>
