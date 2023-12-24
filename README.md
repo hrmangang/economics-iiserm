@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Nov. 14, 2023.</p>
+<p align="right">Last updated: Dec. 24, 2023.</p>
 
 <p align="center">
   <b>Player Name</b>: RonnyRonka
