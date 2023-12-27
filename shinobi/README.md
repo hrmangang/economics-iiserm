@@ -6,6 +6,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). W
 
 - Sasuke Uchiha (The Final Showdown)
 - Boruto Uzumaki (VS Momoshiki)
+- Naruto Uzumaki (The Last)
 - Minato Namikaze (Reanimation)
 
 #### Utility Type
