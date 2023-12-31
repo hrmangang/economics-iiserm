@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Dec. 24, 2023.</p>
+<p align="right">Last updated: Dec. 31, 2023.</p>
 
 <p align="center">
   <b>Player Name</b>: RonnyRonka
@@ -31,8 +31,8 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td>Losses</td>
   </tr>
   <tr align="center">
-    <td>6401</td>
-    <td>577</td>
+    <td>6794</td>
+    <td>625</td>
   </tr>
 </table>
 
