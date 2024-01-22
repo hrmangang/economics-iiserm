@@ -53,13 +53,13 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr>
     <td>Sasuke Uchiha (The Last)</td>
     <td>Dec. 2023-present </td>
-    <td align="center">4</td>
+    <td align="center">5</td>
   </tr>
   
   <tr>
     <td>Sasuke Uchiha (The Final Showdown)</td>
     <td>Dec. 2023-present</td>
-    <td align="center">6</td>
+    <td align="center">7</td>
   </tr>
   <tr>
     <td>Sasuke Uchiha (Wandering Ninja)</td>
