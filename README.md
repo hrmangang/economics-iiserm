@@ -50,7 +50,7 @@
     
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (The Last)</td>
-    <td>Dec. 2023-present </td>
+    <td>Jan. 2024-present </td>
     <td align="center">5</td>
   </tr>
   
