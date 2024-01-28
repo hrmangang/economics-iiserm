@@ -8,7 +8,7 @@
 
 Disclaimer: It won't be of any interest to anyone else. If you are here and not me, you have landed on the wrong place.
 
-<p align="right">Last updated: Dec. 31, 2023.</p>
+<p align="right">Last updated: Jan. 28, 2024.</p>
 
 <p align="center">
   <b>Player Name</b>: RonnyRonka
@@ -29,10 +29,12 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
   <tr align="center">
     <td>Wins</td>
     <td>Losses</td>
+    <td>Win rate</td>
   </tr>
   <tr align="center">
-    <td>6794</td>
-    <td>625</td>
+    <td>7467</td>
+    <td>646</td>
+    <td>92.03%</td>
   </tr>
 </table>
 
@@ -45,9 +47,9 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <th colspan="3">List of Main Shinobi in AM</th>
   </tr>
   <tr align="center">
-    <td>Term</td>
-    <td>Shinobi</td>
-    <td>Titles</td>
+    <td><b>Shinobi</b></td>
+    <td><b>Term</b></td>
+    <td><b>Titles</b></td>
   <tr/>
     
   <tr>
@@ -62,12 +64,11 @@ Disclaimer: It won't be of any interest to anyone else. If you are here and not 
     <td align="center">7</td>
   </tr>
   <tr>
-    <td>Sasuke Uchiha (Wandering Ninja)</td>
+    <td rowspan="2">Sasuke Uchiha (Wandering Ninja)</td>
     <td>Sept. 2023-Nov. 2023 (3 mos)</td>
     <td align="center">11</td>
   </tr>
   <tr>
-    <td></td>
     <td>May 2022-Dec. 2022 (8 mos)</td>
     <td align="center">25</td>
   </tr>
