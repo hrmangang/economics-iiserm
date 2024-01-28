@@ -49,18 +49,18 @@
   <tr/>
     
   <tr>
-    <td>Sasuke Uchiha (The Last)</td>
+    <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (The Last)</td>
     <td>Dec. 2023-present </td>
     <td align="center">5</td>
   </tr>
   
   <tr>
-    <td>Sasuke Uchiha (The Final Showdown)</td>
+    <td><img src="images/Attack.png" width=12px height=12px"> Sasuke Uchiha (The Final Showdown)</td>
     <td>Dec. 2023-present</td>
     <td align="center">7</td>
   </tr>
   <tr>
-    <td rowspan="2">Sasuke Uchiha (Wandering Ninja)</td>
+    <td rowspan="2"><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Wandering Ninja)</td>
     <td>Sept. 2023-Nov. 2023 (3 mos)</td>
     <td align="center">11</td>
   </tr>
@@ -69,7 +69,7 @@
     <td align="center">25</td>
   </tr>
   <tr>
-    <td>Sasuke Uchiha (VS Jigen and Isshiki)</td>
+    <td><img src="images/Assist.png" width=12px height=12px"> Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Jan. 2023-Apr. 2023 (4 mos)</td>
     <td align="center">6</td>
   </tr>
