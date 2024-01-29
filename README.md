@@ -57,7 +57,7 @@
   <tr>
     <td><img src="images/Attack.png" width=12px height=12px"> Sasuke Uchiha (The Final Showdown)</td>
     <td>Dec. 2023-Jan. 2024 (2 mos)</td>
-    <td align="center">8</td>
+    <td align="center">7</td>
   </tr>
   <tr>
     <td rowspan="2"><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Wandering Ninja)</td>
