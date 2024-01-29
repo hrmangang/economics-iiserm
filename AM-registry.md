@@ -381,42 +381,42 @@
 
 <tr>
   <td>No. 188</td>
-  <td>01/01/2023-08/01/2024</td>
+  <td>01/01/2024-08/01/2024</td>
   <td><img src="images/Attack.png" height="15px"> Sasuke Uchiha (The Final Showdown)</td>
   <td>Gokunin</td>
 </tr>
 
 <tr>
   <td>No. 189</td>
-  <td>08/01/2023-15/01/2024</td>
+  <td>08/01/2024-15/01/2024</td>
   <td><img src="images/Attack.png" height="15px"> Sasuke Uchiha (The Final Showdown), <img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
   <td>Gokunin</td>
 </tr>
 
 <tr>
   <td>No. 190</td>
-  <td>15/01/2023-22/01/2024</td>
+  <td>15/01/2024-22/01/2024</td>
   <td><img src="images/Attack.png" height="15px"> Sasuke Uchiha (The Final Showdown), <img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
   <td>Gokunin</td>
 </tr>
 
 <tr>
   <td>No. 191</td>
-  <td>22/01/2023-29/01/2024</td>
+  <td>22/01/2024-29/01/2024</td>
   <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
   <td>Gokunin</td>
 </tr>
 
 <tr>
   <td>No. 192</td>
-  <td>29/01/2023-05/02/2024</td>
+  <td>29/01/2024-05/02/2024</td>
   <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
   <td> </td>
 </tr>
 
 <tr>
   <td>No. 193</td>
-  <td>05/02/2023-12/02/2024</td>
+  <td>05/02/2024-12/02/2024</td>
   <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
   <td> </td>
 </tr>
