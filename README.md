@@ -30,7 +30,7 @@
   <tr align="center">
     <td>7512</td>
     <td>646</td>
-    <td>92.03%</td>
+    <td>92.08%</td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@
     
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (The Last)</td>
-    <td>Jan. 2024-present (1 mos)</td>
+    <td>Jan. 2024-present</td>
     <td align="center">6</td>
   </tr>
   
