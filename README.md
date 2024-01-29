@@ -78,7 +78,8 @@
 
 ### Links
 
-- [Shinobi](shinobi)
 - [AM Registry](AM-registry.md)
+- [Fortress](fortress.md)
+- [Shinobi](shinobi)
 
 <p align="right">Last updated: Jan. 28, 2024.</p>
