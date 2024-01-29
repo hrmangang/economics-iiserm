@@ -35,7 +35,7 @@
 </table>
 
 <p align="center">
-  <b>Current (Solo) Main Shinobi</b>: Sasuke Uchiha (The Last), Sasuke Uchiha (The Final Showdown)</a>
+  <b>Current (Solo) Main Shinobi</b>: <img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (The Last)</a>
 </p>
 
 <table align="center">
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td><img src="images/Assist.png" width=12px height=12px"> Sasuke Uchiha (VS Jigen and Isshiki)</td>
-    <td>Jan. 2023-Apr. 2023 (4 mos)</td>
+    <td>Jan. 2023-Mar. 2023 (3 mos)</td>
     <td align="center">6</td>
   </tr>
 
