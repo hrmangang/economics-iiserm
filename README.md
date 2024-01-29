@@ -62,7 +62,7 @@
   <tr>
     <td rowspan="2"><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Wandering Ninja)</td>
     <td>Sept. 2023-Nov. 2023 (3 mos)</td>
-    <td align="center">11</td>
+    <td align="center">10</td>
   </tr>
   <tr>
     <td>May 2022-Dec. 2022 (8 mos)</td>
