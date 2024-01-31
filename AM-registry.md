@@ -235,15 +235,8 @@
   <tr>
     <td>No. 138</td>
     <td>30/1/2023-6/2/2023</td>
-    <td><img src="images/Assist.png" height="15px"> Sasuke Uchiha (VS Jigen and Isshiki), <img src="images/Utility.png" height="15px"> Sasuke Uchiha (Wandering Ninja)</td>
+    <td><img src="images/Assist.png" height="15px"> Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Gokunin </td>
-  </tr> 
-  
-  <tr>
-    <td>No. 139</td>
-    <td>6/2/2023-13/2/2023</td>
-    <td><img src="images/Utility.png" height="15px"> Sasuke Uchiha (Wandering Ninja)</td>
-    <td>Tier 4 Chonin</td>
   </tr> 
   
   <tr>
