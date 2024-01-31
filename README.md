@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td>May 2022-Dec. 2022 (8 mos)</td>
-    <td align="center">25</td>
+    <td align="center">24</td>
   </tr>
   <tr>
     <td><img src="images/Assist.png" width=12px height=12px"> Sasuke Uchiha (VS Jigen and Isshiki)</td>
