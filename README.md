@@ -40,7 +40,7 @@
 
 <table align="center">
   <tr align="center">
-    <th colspan="3">List of Main Shinobi in AM</th>
+    <th colspan="3">Main Shinobi in AM</th>
   </tr>
   <tr align="center">
     <td><b>Shinobi</b></td>
@@ -72,6 +72,16 @@
     <td><img src="images/Assist.png" width=12px height=12px"> Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Jan. 2023-Mar. 2023 (3 mos)</td>
     <td align="center">6</td>
+  </tr>
+
+  <tr align="center">
+    <th colspan="3">Main Shinobi in TAM (Unranked)</th>
+  </tr>
+
+  <tr>
+    <td><img src="images/Defense.png" width=12px> Sasuke Uchiha (Rinne Sharingan: Shadow)</td>
+    <td>Feb. 2024-</td>
+    <td></td>
   </tr>
 
  </table>
