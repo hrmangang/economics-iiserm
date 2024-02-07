@@ -4,7 +4,7 @@ The tier list is [here](https://www.reddit.com/r/ninjavoltage/wiki/tierlist/). W
 
 #### Attack Type
 
-- Sasuke Uchiha (The Final Showdown)
+- Sasuke Uchiha (The Final Showdown) &mdash; EX LVL15, LB+3, LB+2, 75k+ ATK
 - Boruto Uzumaki (VS Momoshiki)
 - Naruto Uzumaki (The Last)
 - Minato Namikaze (Reanimation)
