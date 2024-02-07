@@ -80,6 +80,6 @@
 
 - [AM Registry](AM-registry.md)
 - [Fortress](fortress.md)
-- [Shinobi](shinobi)
+- [Shinobi](shinobi.md)
 
 <p align="right">Last updated: Jan. 28, 2024.</p>
