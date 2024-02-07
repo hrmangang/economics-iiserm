@@ -35,7 +35,7 @@
     <td><img src="images/Skill.png" width=12px height=12px"> Sasuke Uchiha (Warrior Spirit)</td>
     <td align="center">1</td>
     <td align="center">8, +2</td>
-    <td align="center">8, +2</td>
+    <td align="center">NA</td>
     <td align="center">43k+</td>
   </tr>
 
