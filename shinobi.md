@@ -62,7 +62,7 @@
     <td align="center">NA</td>
     <td align="center">46k+</td>
   </tr>
-  
+
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (Eternal Mangekyo Sharingan)</td>
     <td align="center">10</td>
@@ -77,6 +77,14 @@
     <td align="center">8, +1</td>
     <td align="center">8, +1</td>
     <td align="center">35k+</td>
+  </tr>
+
+  <tr>
+    <td><img src="images/Defense.png" width=12px height=12px"> Nagato (Reanimation)</td>
+    <td align="center">1</td>
+    <td align="center">15, +1</td>
+    <td align="center">8, +1</td>
+    <td align="center">31k+</td>
   </tr>
 
   <tr>
