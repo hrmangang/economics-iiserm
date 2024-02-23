@@ -81,7 +81,7 @@
 
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Nagato (Reanimation)</td>
-    <td align="center">1</td>
+    <td align="center">3</td>
     <td align="center">15, +1</td>
     <td align="center">8, +1</td>
     <td align="center">31k+</td>
@@ -105,10 +105,10 @@
 
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Anime 20th Anniversary Outfit)</td>
-    <td align="center">4</td>
+    <td align="center">10</td>
     <td align="center">8, +2</td>
     <td align="center">NA</td>
-    <td align="center">35k+</td>
+    <td align="center">48k+</td>
   </tr>
 
   <tr>
@@ -189,7 +189,7 @@
 
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Boruto Uzumaki (Karma)</td>
-    <td align="center">1</td>
+    <td align="center">6</td>
     <td align="center">8, +3</td>
     <td align="center">8, +1</td>
     <td align="center">26k+</td>
