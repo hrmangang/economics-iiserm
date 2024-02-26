@@ -425,6 +425,13 @@
   <td>No. 195</td>
   <td>19/02/2024-26/02/2024</td>
   <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
+  <td>Gokunin</td>
+</tr>
+
+<tr>
+  <td>No. 196</td>
+  <td>26/02/2024-04/03/2024</td>
+  <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
   <td> </td>
 </tr>
 
