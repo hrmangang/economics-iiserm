@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>All-Time Best Rank</b>: Gokunin (x51)
+  <b>All-Time Best Rank</b>: Gokunin (x52)
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (The Last)</td>
     <td>Jan. 2024-present</td>
-    <td align="center">9</td>
+    <td align="center">10</td>
   </tr>
   
   <tr>
