@@ -59,15 +59,18 @@
     <td>Dec. 2023-Jan. 2024 (2 mos)</td>
     <td align="center">7</td>
   </tr>
+  
   <tr>
     <td rowspan="2"><img src="images/Utility.png" width="12px" height="12px"/> Sasuke Uchiha (Wandering Ninja)</td>
     <td>Sept. 2023-Nov. 2023 (3 mos)</td>
     <td align="center">10</td>
   </tr>
+  
   <tr>
     <td>May 2022-Dec. 2022 (8 mos)</td>
     <td align="center">24</td>
   </tr>
+  
   <tr>
     <td><img src="images/Assist.png" width="12px" height="12px"/> Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Jan. 2023-Mar. 2023 (3 mos)</td>
