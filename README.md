@@ -2,9 +2,9 @@
   <img alt="wallpaper" src="images/logo.png" width="80%"/>
 </p>
 
-<h2 align="center">
-  NxB NV Personal Data
-</h2>
+<h3 align="center">
+  Personal Data
+</h3>
 
 <p align="center">
   <b>Player Name</b>: RonnyRonka
@@ -49,18 +49,18 @@
   <tr/>
     
   <tr>
-    <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (The Last)</td>
+    <td><img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
     <td>Jan. 2024-present</td>
     <td align="center">10</td>
   </tr>
   
   <tr>
-    <td><img src="images/Attack.png" width=12px height=12px"> Sasuke Uchiha (The Final Showdown)</td>
+    <td><img src="images/Attack.png" width="12px" height="12px"/> Sasuke Uchiha (The Final Showdown)</td>
     <td>Dec. 2023-Jan. 2024 (2 mos)</td>
     <td align="center">7</td>
   </tr>
   <tr>
-    <td rowspan="2"><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Wandering Ninja)</td>
+    <td rowspan="2"><img src="images/Utility.png" width="12px" height="12px"/> Sasuke Uchiha (Wandering Ninja)</td>
     <td>Sept. 2023-Nov. 2023 (3 mos)</td>
     <td align="center">10</td>
   </tr>
@@ -69,17 +69,21 @@
     <td align="center">24</td>
   </tr>
   <tr>
-    <td><img src="images/Assist.png" width=12px height=12px"> Sasuke Uchiha (VS Jigen and Isshiki)</td>
+    <td><img src="images/Assist.png" width="12px" height="12px"/> Sasuke Uchiha (VS Jigen and Isshiki)</td>
     <td>Jan. 2023-Mar. 2023 (3 mos)</td>
     <td align="center">6</td>
   </tr>
 
  </table>
 
-### Links
+<h3 align="center">
+  Links
+</h3>
 
-- [AM Registry](AM-registry.md)
-- [Fortress](fortress.md)
-- [Shinobi](shinobi.md)
+<ul>
+  <li><a href="AM-registry.md">AM Registry</a></li>
+  <li><a href="fortress.md">Fortress</a></li>
+  <li><a href="shinobi.md">Shinobi</a></li>
+</ul>
 
-<p align="right">Last updated: Jan. 28, 2024.</p>
+<p align="right">Last updated: Feb. 27, 2024.</p>
