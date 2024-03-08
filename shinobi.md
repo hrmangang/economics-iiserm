@@ -177,11 +177,19 @@
   
   <tr>
     <td><img src="images/Attack.png" width=12px height=12px"> Minato Namikaze (Reanimation)</td>
-    <td align="center">1</td>
+    <td align="center">3</td>
     <td align="center">8, +1</td>
     <td align="center">NA</td>
     <td align="center">50k+</td>
   </tr>  
+  
+  <tr>
+    <td><img src="images/Attack.png" width=12px height=12px"> Naruto Uzumaki (Boy)</td>
+    <td align="center">5</td>
+    <td align="center">8, +1</td>
+    <td align="center">8, +1</td>
+    <td align="center">41k+</td>
+  </tr>
 
   <tr>
     <td align="center" colspan="5">Other Shinobi</td>
@@ -249,14 +257,6 @@
     <td align="center">8, +0</td>
     <td align="center">NA</td>
     <td align="center">38k+</td>
-  </tr>
-
-  <tr>
-    <td><img src="images/Attack.png" width=12px height=12px"> Naruto Uzumaki (Boy)</td>
-    <td align="center">5</td>
-    <td align="center">8, +1</td>
-    <td align="center">8, +1</td>
-    <td align="center"></td>
   </tr>
   
  </table>
