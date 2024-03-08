@@ -110,7 +110,15 @@
     <td align="center">NA</td>
     <td align="center">48k+</td>
   </tr>
-
+  
+  <tr>
+    <td><img src="images/Utility.png" width=12px height=12px"> Naruto Uzumaki (7th Hokage Baryon Mode)</td>
+    <td align="center">12</td>
+    <td align="center">8, +0</td>
+    <td align="center">NA</td>
+    <td align="center">43k+</td>
+  </tr>
+  
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Kawaki</td>
     <td align="center">1</td>
@@ -225,14 +233,6 @@
     <td align="center">8, +0</td>
     <td align="center">8, +1</td>
     <td align="center">28k+</td>
-  </tr>
-
-  <tr>
-    <td><img src="images/Utility.png" width=12px height=12px"> Naruto Uzumaki (7th Hokage Baryon Mode)</td>
-    <td align="center">12</td>
-    <td align="center">8, +0</td>
-    <td align="center">NA</td>
-    <td align="center">43k+</td>
   </tr>
   
   <tr>
