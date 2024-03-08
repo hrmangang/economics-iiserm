@@ -229,7 +229,7 @@
 
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Naruto Uzumaki (7th Hokage Baryon Mode)</td>
-    <td align="center">1</td>
+    <td align="center">12</td>
     <td align="center">8, +0</td>
     <td align="center">NA</td>
     <td align="center">43k+</td>
@@ -239,6 +239,14 @@
     <td><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Illusionary World Outfit)</td>
     <td align="center">5</td>
     <td align="center">8, +1</td>
+    <td align="center">NA</td>
+    <td align="center"></td>
+  </tr>
+
+  <tr>
+    <td><img src="images/Assist.png" width=12px height=12px"> Naruto Uzumaki (Kurama Link Mode)</td>
+    <td align="center">8</td>
+    <td align="center">8, +2</td>
     <td align="center">NA</td>
     <td align="center"></td>
   </tr>
