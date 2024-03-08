@@ -52,7 +52,7 @@
     <td align="center">15</td>
     <td align="center">15, +3</td>
     <td align="center">NA</td>
-    <td align="center">79k+</td>
+    <td align="center">81k+</td>
   </tr>
   
   <tr>
