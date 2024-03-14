@@ -59,9 +59,9 @@
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (Eternal Mangekyo Sharingan)</td>
     <td align="center">10</td>
+    <td align="center">1, 0</td>
     <td align="center">8, +2</td>
-    <td align="center">NA</td>
-    <td align="center">24k+</td>
+    <td align="center"> </td>
   </tr>
 
   <tr>
