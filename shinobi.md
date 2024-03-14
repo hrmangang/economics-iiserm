@@ -7,6 +7,7 @@
 </h2>
 
 <table align="center">
+  
   <tr align="center">
     <td><b>Shinobi</b></td>
     <td><b>EX LVL</b></td>
@@ -29,14 +30,6 @@
     <td align="center">8, +1</td>
     <td align="center">NA</td>
     <td align="center">38k+</td>
-  </tr>
-  
-  <tr>
-    <td><img src="images/Skill.png" width=12px height=12px"> Sasuke Uchiha (Warrior Spirit)</td>
-    <td align="center">1</td>
-    <td align="center">8, +2</td>
-    <td align="center">NA</td>
-    <td align="center">43k+</td>
   </tr>
 
   <tr>
@@ -137,7 +130,7 @@
   
   <tr>
     <td><img src="images/Assist.png" width=12px height=12px"> Sakura Uchiha</td>
-    <td align="center">10</td>
+    <td align="center">11</td>
     <td align="center">8, +2</td>
     <td align="center">8, +2</td>
     <td align="center">40k+</td>
@@ -234,14 +227,6 @@
     <td align="center">8, +1</td>
     <td align="center">28k+</td>
   </tr>
-  
-  <tr>
-    <td><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Illusionary World Outfit)</td>
-    <td align="center">5</td>
-    <td align="center">8, +1</td>
-    <td align="center">NA</td>
-    <td align="center"></td>
-  </tr>
 
   <tr>
     <td><img src="images/Assist.png" width=12px height=12px"> Naruto Uzumaki (Kurama Link Mode)</td>
@@ -260,19 +245,47 @@
   </tr>
   
   <tr>
-    <td><img src="images/Assist.png" width=12px height=12px"> Konan (Summer Break)</td>
-    <td align="center">8 (UJ+2)</td>
-    <td align="center">8, +2</td>
-    <td align="center">8, +2</td>
-    <td align="center"></td>
-  </tr>
-  
-  <tr>
     <td><img src="images/Skill.png" width=12px height=12px"> Indra Otsutsuki</td>
     <td align="center">1</td>
     <td align="center">8, +0</td>
     <td align="center">NA</td>
     <td align="center">38k+</td>
   </tr>
+
+  <tr>
+    <td align="center" colspan="5">Free Shinobi</td>
+  </tr>
+  
+  <tr>
+    <td><img src="images/Skill.png" width=12px height=12px"> Sasuke Uchiha (Warrior Spirit)</td>
+    <td align="center">1</td>
+    <td align="center">8, +2</td>
+    <td align="center">NA</td>
+    <td align="center">43k+</td>
+  </tr>
+
+  <tr>
+    <td><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Illusionary World Outfit)</td>
+    <td align="center">5</td>
+    <td align="center">8, +1</td>
+    <td align="center">NA</td>
+    <td align="center"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="images/Defense.png" width=12px height=12px"> Naruto Uzumaki (Warrior Spirit)</td>
+    <td align="center">8</td>
+    <td align="center">8, +2</td>
+    <td align="center">NA</td>
+    <td align="center"> </td>
+  </tr>
+
+  <tr>
+    <td><img src="images/Assist.png" width=12px height=12px"> Konan (Summer Break)</td>
+    <td align="center">8 (UJ+2)</td>
+    <td align="center">8, +2</td>
+    <td align="center">8, +2</td>
+    <td align="center"></td>
+  </tr>  
   
  </table>
