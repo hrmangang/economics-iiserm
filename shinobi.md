@@ -266,7 +266,7 @@
 
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Illusionary World Outfit)</td>
-    <td align="center">5</td>
+    <td align="center">8</td>
     <td align="center">8, +1</td>
     <td align="center">NA</td>
     <td align="center"></td>
