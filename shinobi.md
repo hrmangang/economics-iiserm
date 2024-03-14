@@ -274,7 +274,7 @@
   
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Naruto Uzumaki (Warrior Spirit)</td>
-    <td align="center">8</td>
+    <td align="center">11</td>
     <td align="center">8, +2</td>
     <td align="center">NA</td>
     <td align="center"> </td>
