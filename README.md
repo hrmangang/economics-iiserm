@@ -50,7 +50,7 @@
     
   <tr>
     <td><img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
-    <td>Jan. 2024-present</td>
+    <td>Jan. 2024-Feb. 2024 (2 mos)</td>
     <td align="center">10</td>
   </tr>
   
