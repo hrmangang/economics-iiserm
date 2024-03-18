@@ -28,9 +28,9 @@
     <td>Win rate</td>
   </tr>
   <tr align="center">
-    <td>7814</td>
-    <td>658</td>
-    <td>92.23%</td>
+    <td>8001</td>
+    <td>665</td>
+    <td>92.32%</td>
   </tr>
 </table>
 
