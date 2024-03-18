@@ -47,6 +47,14 @@
     <td align="center">NA</td>
     <td align="center">81k+</td>
   </tr>
+
+  <tr>
+    <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (Eternal Mangekyo Sharingan)</td>
+    <td align="center">10</td>
+    <td align="center">15, +2</td>
+    <td align="center">8, +2</td>
+    <td align="center">53k+</td>
+  </tr>
   
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (Rinne Sharingan: Shadow)</td>
@@ -54,14 +62,6 @@
     <td align="center">8, +2</td>
     <td align="center">NA</td>
     <td align="center">46k+</td>
-  </tr>
-
-  <tr>
-    <td><img src="images/Defense.png" width=12px height=12px"> Sasuke Uchiha (Eternal Mangekyo Sharingan)</td>
-    <td align="center">10</td>
-    <td align="center">1, 0</td>
-    <td align="center">8, +2</td>
-    <td align="center"> </td>
   </tr>
 
   <tr>
