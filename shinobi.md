@@ -90,7 +90,7 @@
 
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Itachi Uchiha (Reanimation)</td>
-    <td align="center">13</td>
+    <td align="center">15</td>
     <td align="center">8, +2</td>
     <td align="center">8, +1</td>
     <td align="center">64k+</td>
