@@ -53,7 +53,7 @@
     <td align="center">15</td>
     <td align="center">15, +2</td>
     <td align="center">8, +2</td>
-    <td align="center">62k+</td>
+    <td align="center">58k+</td>
   </tr>
   
   <tr>
@@ -67,9 +67,9 @@
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Naruto Uzumaki (The Final Showdown)</td>
     <td align="center">15</td>
+    <td align="center">8, +2</td>
     <td align="center">8, +1</td>
-    <td align="center">8, +1</td>
-    <td align="center">35k+</td>
+    <td align="center">33k+</td>
   </tr>
 
   <tr>
@@ -85,7 +85,7 @@
     <td align="center">15</td>
     <td align="center">8, +3</td>
     <td align="center">NA</td>
-    <td align="center">70k+</td>
+    <td align="center">73k+</td>
   </tr>
 
   <tr>
