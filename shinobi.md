@@ -84,7 +84,7 @@
     <td><img src="images/Utility.png" width=12px height=12px"> Sasuke Uchiha (Wandering Ninja)</td>
     <td align="center">15</td>
     <td align="center">8, +3</td>
-    <td align="center">NA</td>
+    <td align="center">8, +2</td>
     <td align="center">73k+</td>
   </tr>
 
