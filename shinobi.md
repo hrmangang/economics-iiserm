@@ -255,7 +255,7 @@
   <tr>
     <td><img src="images/Skill.png" width=12px height=12px"> Indra Otsutsuki</td>
     <td align="center">1</td>
-    <td align="center">8, +0</td>
+    <td align="center">8, +1</td>
     <td align="center">NA</td>
     <td align="center">38k+</td>
   </tr>
