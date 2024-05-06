@@ -171,9 +171,9 @@
   <tr>
     <td><img src="images/Attack.png" width=12px height=12px"> Naruto Uzumaki (The Last)</td>
     <td align="center">15</td>
+    <td align="center">15, +2</td>
     <td align="center">NA</td>
-    <td align="center">NA</td>
-    <td align="center">57k+</td>
+    <td align="center">64k+</td>
   </tr>
   
   <tr>
