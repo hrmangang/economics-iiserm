@@ -106,7 +106,7 @@
 
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Minato Namikaze (Reanimation Kurama Link Mode)</td>
-    <td align="center">8 (UJ)</td>
+    <td align="center">1</td>
     <td align="center">8, +2</td>
     <td align="center">8, +2</td>
     <td align="center">22k+</td>
