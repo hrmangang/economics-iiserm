@@ -103,6 +103,14 @@
     <td align="center">NA</td>
     <td align="center">48k+</td>
   </tr>
+
+  <tr>
+    <td><img src="images/Utility.png" width=12px height=12px"> Minato Namikaze (Reanimation Kurama Link Mode)</td>
+    <td align="center">8 (UJ)</td>
+    <td align="center">8, +2</td>
+    <td align="center">8, +2</td>
+    <td align="center">22k+</td>
+  </tr>
   
   <tr>
     <td><img src="images/Utility.png" width=12px height=12px"> Naruto Uzumaki (7th Hokage Baryon Mode)</td>
@@ -212,14 +220,7 @@
     <td align="center">26k+</td>
   </tr>
 
-  <tr>
-    <td><img src="images/Utility.png" width=12px height=12px"> Minato Namikaze (Reanimation Kurama Link Mode)</td>
-    <td align="center">8 (UJ)</td>
-    <td align="center">8, +2</td>
-    <td align="center">8, +2</td>
-    <td align="center">22k+</td>
-  </tr>
-  
+
   <tr>
     <td><img src="images/Defense.png" width=12px height=12px"> Naruto Uzumaki (7th Hokage)</td>
     <td align="center">1</td>
