@@ -16,6 +16,14 @@
     <td><b>ATK</b></td>
   <tr/>
 
+ <tr>
+    <td><img src="images/Skill.png" width=12px height=12px"> Indra Otsutsuki</td>
+    <td align="center">15</td>
+    <td align="center">15, +3</td>
+    <td align="center">8, +1</td>
+    <td align="center">50k+</td>
+  </tr>
+  
   <tr>
     <td><img src="images/Skill.png" width=12px height=12px"> Itachi Uchiha (Anbu)</td>
     <td align="center">15</td>
@@ -251,14 +259,6 @@
     <td align="center">8, +1</td>
     <td align="center">8, +2</td>
     <td align="center"></td>
-  </tr>
-  
-  <tr>
-    <td><img src="images/Skill.png" width=12px height=12px"> Indra Otsutsuki</td>
-    <td align="center">1</td>
-    <td align="center">8, +1</td>
-    <td align="center">NA</td>
-    <td align="center">38k+</td>
   </tr>
 
   <tr>
