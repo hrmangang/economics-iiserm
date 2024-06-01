@@ -20,8 +20,8 @@
     <td><img src="images/Skill.png" width=12px height=12px"> Indra Otsutsuki</td>
     <td align="center">15</td>
     <td align="center">15, +3</td>
-    <td align="center">8, +1</td>
-    <td align="center">50k+</td>
+    <td align="center">8, +2</td>
+    <td align="center">64k+</td>
   </tr>
   
   <tr>
@@ -53,7 +53,7 @@
     <td align="center">15</td>
     <td align="center">15, +3</td>
     <td align="center">NA</td>
-    <td align="center">81k+</td>
+    <td align="center">83k+</td>
   </tr>
 
   <tr>
@@ -93,7 +93,7 @@
     <td align="center">15</td>
     <td align="center">8, +3</td>
     <td align="center">8, +2</td>
-    <td align="center">73k+</td>
+    <td align="center">81k+</td>
   </tr>
 
   <tr>
@@ -189,7 +189,7 @@
     <td align="center">15</td>
     <td align="center">15, +2</td>
     <td align="center">NA</td>
-    <td align="center">64k+</td>
+    <td align="center">81k+</td>
   </tr>
   
   <tr>
