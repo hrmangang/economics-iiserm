@@ -149,7 +149,7 @@
     <td align="center">15</td>
     <td align="center">15, +3</td>
     <td align="center">8, +2</td>
-    <td align="center">52</td>
+    <td align="center">52k+</td>
   </tr>
   
   <tr>
