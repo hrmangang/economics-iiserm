@@ -53,7 +53,7 @@
     <td align="center">15</td>
     <td align="center">15, +3</td>
     <td align="center">NA</td>
-    <td align="center">83k+</td>
+    <td align="center">84k+</td>
   </tr>
 
   <tr>
@@ -93,7 +93,7 @@
     <td align="center">15</td>
     <td align="center">8, +3</td>
     <td align="center">8, +2</td>
-    <td align="center">81k+</td>
+    <td align="center">85k+</td>
   </tr>
 
   <tr>
@@ -181,7 +181,7 @@
     <td align="center">15</td>
     <td align="center">8, +3</td>
     <td align="center">8, +2</td>
-    <td align="center">75k+</td>
+    <td align="center">73k+</td>
   </tr>
   
   <tr>
@@ -189,7 +189,7 @@
     <td align="center">15</td>
     <td align="center">15, +2</td>
     <td align="center">NA</td>
-    <td align="center">81k+</td>
+    <td align="center">78k+</td>
   </tr>
   
   <tr>
