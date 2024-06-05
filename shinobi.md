@@ -149,15 +149,15 @@
     <td align="center">15</td>
     <td align="center">15, +3</td>
     <td align="center">8, +2</td>
-    <td align="center"> </td>
+    <td align="center">52</td>
   </tr>
   
   <tr>
     <td><img src="images/Assist.png" width=12px height=12px"> Sakura Uchiha</td>
-    <td align="center">11</td>
+    <td align="center">15</td>
+    <td align="center">15, +1</td>
     <td align="center">8, +2</td>
-    <td align="center">8, +2</td>
-    <td align="center">40k+</td>
+    <td align="center">51k+</td>
   </tr>
 
   <tr>
