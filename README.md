@@ -47,6 +47,12 @@
     <td><b>Term</b></td>
     <td><b>Titles</b></td>
   <tr/>
+
+  <tr>
+    <td><img src="images/Utility.png" width="12px" height="12px"/> Itachi Uchiha (Reanimation)</td>
+    <td>Jul. 2024-present</td>
+    <td align="center"></td>
+  </tr>
     
   <tr>
     <td><img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
