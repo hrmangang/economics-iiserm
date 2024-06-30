@@ -35,7 +35,7 @@
 </table>
 
 <p align="center">
-  <b>Current (Solo) Main Shinobi</b>: <img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)
+  <b>Current Solo Main Shinobi</b>: <img src="images/Utility.png" width="12px" height="12px"/> Itachi Uchiha (Reanimation)
 </p>
 
 <table align="center">
