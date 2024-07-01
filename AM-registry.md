@@ -432,6 +432,13 @@
   <td>No. 213</td>
   <td>24/06/2024-01/07/2024</td>
   <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
+  <td> Gokunin</td>
+</tr>
+
+<tr>
+  <td>No. 214</td>
+  <td>01/06/2024-08/07/2024</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
   <td> </td>
 </tr>
 
