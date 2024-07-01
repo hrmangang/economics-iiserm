@@ -429,9 +429,9 @@
 </tr>
 
 <tr>
-  <td>No. 196</td>
-  <td>26/02/2024-04/03/2024</td>
-  <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (The Last)</td>
+  <td>No. 213</td>
+  <td>24/06/2024-01/07/2024</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
   <td> </td>
 </tr>
 
