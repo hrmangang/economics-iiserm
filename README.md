@@ -50,7 +50,7 @@
 
   <tr>
     <td><img src="images/Utility.png" width="12px" height="12px"/> Itachi Uchiha (Reanimation)</td>
-    <td>Jul. 2024-present</td>
+    <td>Jun. 2024-present</td>
     <td align="center">1</td>
   </tr>
     
