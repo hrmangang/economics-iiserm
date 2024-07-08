@@ -438,7 +438,14 @@
 <tr>
   <td>No. 214</td>
   <td>01/06/2024-08/07/2024</td>
-  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation), <img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
+  <td>Gokunin</td>
+</tr>
+
+<tr>
+  <td>No. 215</td>
+  <td>08/07/2024-15/07/2024</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation), <img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
   <td> </td>
 </tr>
 
