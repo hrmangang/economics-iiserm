@@ -35,8 +35,7 @@
 </table>
 
 <p align="center">
-  <b>Current Solo Main Shinobi</b>: <img src="images/Utility.png" width="12px" height="12px"/> Itachi Uchiha (Reanimation), <img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)
-</p>
+  <b>Current Solo Main Shinobi</b>: <img src="images/Utility.png" width="12px" height="12px"/> Itachi Uchiha (Reanimation)</p>
 
 <table align="center">
   <tr align="center">
@@ -56,30 +55,30 @@
     
   <tr>
     <td><img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
-    <td>Jan-Feb, Jul 2024-present</td>
-    <td align="center">11</td>
+    <td>Jan-Feb 2024 (2 mos)</td>
+    <td align="center">10</td>
   </tr>
   
   <tr>
     <td><img src="images/Attack.png" width="12px" height="12px"/> Sasuke Uchiha (The Final Showdown)</td>
-    <td>Dec 2023-Jan 2024 (2 mos)</td>
+    <td>Dec-Jan 2024 (2 mos)</td>
     <td align="center">7</td>
   </tr>
   
   <tr>
     <td rowspan="2"><img src="images/Utility.png" width="12px" height="12px"/> Sasuke Uchiha (Wandering Ninja)</td>
-    <td>Sep 2023-Nov 2023 (3 mos)</td>
+    <td>Sep-Nov 2023 (3 mos)</td>
     <td align="center">10</td>
   </tr>
   
   <tr>
-    <td>May 2022-Dec 2022 (8 mos)</td>
+    <td>May-Dec 2022 (8 mos)</td>
     <td align="center">24</td>
   </tr>
   
   <tr>
     <td><img src="images/Assist.png" width="12px" height="12px"/> Sasuke Uchiha (VS Jigen and Isshiki)</td>
-    <td>Jan 2023-Mar 2023 (3 mos)</td>
+    <td>Jan-Mar 2023 (3 mos)</td>
     <td align="center">6</td>
   </tr>
 
