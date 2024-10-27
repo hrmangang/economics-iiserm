@@ -48,9 +48,15 @@
   <tr/>
 
   <tr>
+    <td><img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (Rinne Sharingan: Shadow)</td>
+    <td>Jun-Jul 2024 (2 mos)</td>
+    <td align="center">5</td>
+  </tr>
+
+  <tr>
     <td><img src="images/Utility.png" width="12px" height="12px"/> Itachi Uchiha (Reanimation)</td>
-    <td>Jun 2024-present</td>
-    <td align="center">2</td>
+    <td>Jun-Jul 2024 (2 mos)</td>
+    <td align="center">5</td>
   </tr>
     
   <tr>
