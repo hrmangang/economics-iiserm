@@ -49,8 +49,8 @@
 
   <tr>
     <td><img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (Rinne Sharingan: Shadow)</td>
-    <td>Jun-Jul 2024 (2 mos)</td>
-    <td align="center">5</td>
+    <td>Oct 2024-present</td>
+    <td align="center"> </td>
   </tr>
 
   <tr>
