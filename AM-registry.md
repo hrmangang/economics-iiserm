@@ -437,15 +437,36 @@
 
 <tr>
   <td>No. 214</td>
-  <td>01/06/2024-08/07/2024</td>
-  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation), <img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
+  <td>01/07/2024-08/07/2024</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
   <td>Gokunin</td>
 </tr>
 
 <tr>
   <td>No. 215</td>
   <td>08/07/2024-15/07/2024</td>
-  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation), <img src="images/Defense.png" width="12px" height="12px"/> Sasuke Uchiha (The Last)</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
+  <td>Gokunin</td>
+</tr>
+
+<tr>
+  <td>No. 216</td>
+  <td>15/07/2024-22/07/2024</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
+  <td>Gokunin</td>
+</tr>
+
+<tr>
+  <td>No. 217</td>
+  <td>22/07/2024-29/07/2024</td>
+  <td><img src="images/Utility.png" height="15px"> Itachi Uchiha (Reanimation)</td>
+  <td>Gokunin</td>
+</tr>
+
+<tr>
+  <td>No. 230</td>
+  <td>21/10/2024-28/10/2024</td>
+  <td><img src="images/Defense.png" height="15px"> Sasuke Uchiha (Rinne Sharingan: Shadow)</td>
   <td> </td>
 </tr>
 
